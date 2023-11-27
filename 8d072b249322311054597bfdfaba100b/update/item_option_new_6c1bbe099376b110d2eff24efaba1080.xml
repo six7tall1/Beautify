@@ -41,13 +41,13 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>hot_or_cold_wax</name>
-        <order>100</order>
+        <name>last_name</name>
+        <order>400</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Hot or Cold wax?</question_text>
+        <question_text>Last Name</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -75,19 +75,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>LaSalle</sys_created_by>
-        <sys_created_on>2023-11-27 17:19:36</sys_created_on>
-        <sys_id>bd6772059376b110d2eff24efaba1038</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Hot or Cold wax?</sys_name>
+        <sys_created_on>2023-11-27 17:20:49</sys_created_on>
+        <sys_id>6c1bbe099376b110d2eff24efaba1080</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Last Name</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
-        <sys_update_name>item_option_new_bd6772059376b110d2eff24efaba1038</sys_update_name>
+        <sys_update_name>item_option_new_6c1bbe099376b110d2eff24efaba1080</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-11-27 17:21:41</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>3</type>
+        <type>6</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=bd6772059376b110d2eff24efaba1038"/>
-    <fx_price action="delete_multiple" query="id=bd6772059376b110d2eff24efaba1038"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=6c1bbe099376b110d2eff24efaba1080"/>
+    <fx_price action="delete_multiple" query="id=6c1bbe099376b110d2eff24efaba1080"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>bd6772059376b110d2eff24efaba1038</id>
+        <id>6c1bbe099376b110d2eff24efaba1080</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>LaSalle</sys_created_by>
-        <sys_created_on>2023-11-27 17:07:24</sys_created_on>
-        <sys_id>a11872459376b110d2eff24efaba101a</sys_id>
+        <sys_created_on>2023-11-27 17:20:49</sys_created_on>
+        <sys_id>0a2bf2499376b110d2eff24efaba1007</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>LaSalle</sys_updated_by>
-        <sys_updated_on>2023-11-27 17:07:24</sys_updated_on>
+        <sys_updated_on>2023-11-27 17:20:49</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>bd6772059376b110d2eff24efaba1038</id>
+        <id>6c1bbe099376b110d2eff24efaba1080</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>LaSalle</sys_created_by>
-        <sys_created_on>2023-11-27 17:07:24</sys_created_on>
-        <sys_id>291872459376b110d2eff24efaba1018</sys_id>
+        <sys_created_on>2023-11-27 17:20:49</sys_created_on>
+        <sys_id>8a2bf2499376b110d2eff24efaba1006</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>LaSalle</sys_updated_by>
-        <sys_updated_on>2023-11-27 17:07:24</sys_updated_on>
+        <sys_updated_on>2023-11-27 17:20:49</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
