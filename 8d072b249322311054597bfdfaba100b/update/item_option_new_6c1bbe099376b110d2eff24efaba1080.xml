@@ -42,7 +42,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>last_name</name>
-        <order>400</order>
+        <order>200</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -75,7 +75,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>LaSalle</sys_created_by>
-        <sys_created_on>2023-11-27 17:20:49</sys_created_on>
+        <sys_created_on>2023-11-27 17:22:15</sys_created_on>
         <sys_id>6c1bbe099376b110d2eff24efaba1080</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Last Name</sys_name>
@@ -84,7 +84,7 @@
         <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
         <sys_update_name>item_option_new_6c1bbe099376b110d2eff24efaba1080</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-11-27 17:21:41</sys_updated_on>
+        <sys_updated_on>2023-11-27 17:27:08</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
