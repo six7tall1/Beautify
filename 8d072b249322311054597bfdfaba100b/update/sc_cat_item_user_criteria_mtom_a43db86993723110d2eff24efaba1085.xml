@@ -2,17 +2,17 @@
     <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Eyebrow Wax">6be6f6c19376b110d2eff24efaba109e</sc_cat_item>
         <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
-        <sys_created_by>LaSalle</sys_created_by>
-        <sys_created_on>2023-11-27 17:22:16</sys_created_on>
-        <sys_id>cf7bba499376b110d2eff24efaba108c</sys_id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-28 21:27:27</sys_created_on>
+        <sys_id>a43db86993723110d2eff24efaba1085</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Eyebrow Wax.Any User</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
-        <sys_update_name>sc_cat_item_user_criteria_mtom_cf7bba499376b110d2eff24efaba108c</sys_update_name>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_a43db86993723110d2eff24efaba1085</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-11-27 17:27:07</sys_updated_on>
+        <sys_updated_on>2023-11-28 21:28:12</sys_updated_on>
         <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
     </sc_cat_item_user_criteria_mtom>
 </record_update>

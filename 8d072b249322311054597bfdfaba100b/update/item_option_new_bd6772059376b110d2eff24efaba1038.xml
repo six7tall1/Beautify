@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <attributes/>
         <cat_item display_value="Eyebrow Wax">6be6f6c19376b110d2eff24efaba109e</cat_item>
         <category/>
@@ -74,17 +74,17 @@
         <sp_widget/>
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
-        <sys_created_by>LaSalle</sys_created_by>
-        <sys_created_on>2023-11-27 17:22:15</sys_created_on>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-28 21:27:27</sys_created_on>
         <sys_id>bd6772059376b110d2eff24efaba1038</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Hot or Cold wax?</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
         <sys_update_name>item_option_new_bd6772059376b110d2eff24efaba1038</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-11-27 17:27:07</sys_updated_on>
+        <sys_updated_on>2023-11-28 21:28:14</sys_updated_on>
         <table/>
         <tooltip/>
         <type>3</type>
