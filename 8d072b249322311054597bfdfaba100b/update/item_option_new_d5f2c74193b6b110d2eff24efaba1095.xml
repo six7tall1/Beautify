@@ -75,7 +75,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>LaSalle</sys_created_by>
-        <sys_created_on>2023-11-27 20:29:25</sys_created_on>
+        <sys_created_on>2023-11-28 01:07:09</sys_created_on>
         <sys_id>d5f2c74193b6b110d2eff24efaba1095</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Last Name</sys_name>
@@ -84,7 +84,7 @@
         <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
         <sys_update_name>item_option_new_d5f2c74193b6b110d2eff24efaba1095</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-11-27 20:31:07</sys_updated_on>
+        <sys_updated_on>2023-11-28 01:16:14</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
