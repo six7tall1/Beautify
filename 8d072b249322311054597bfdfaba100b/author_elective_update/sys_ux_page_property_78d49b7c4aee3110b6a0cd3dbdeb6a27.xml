@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="">f8d49b7c18ee31104e95ad042eb32739</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 14:18:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>78d49b7c4aee3110b6a0cd3dbdeb6a27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_ux_page_property_78d49b7c4aee3110b6a0cd3dbdeb6a27</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 14:18:48</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1207268_beautify.f8d49b7c18ee31104e95ad042eb32739.root.globalSearchDataConfigId</unique_name>
+        <value>74d49b7cf1ee31106a5db2f0a276df30</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sys_ux_page_property_78d49b7c4aee3110b6a0cd3dbdeb6a27</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>globalSearchDataConfigId</name><page display_value="">f8d49b7c18ee31104e95ad042eb32739</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 14:18:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>78d49b7c4aee3110b6a0cd3dbdeb6a27</sys_id><sys_mod_count>0</sys_mod_count><sys_name>globalSearchDataConfigId</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sys_ux_page_property_78d49b7c4aee3110b6a0cd3dbdeb6a27</sys_update_name><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 14:18:48</sys_updated_on><type>string</type><unique_name>x_1207268_beautify.f8d49b7c18ee31104e95ad042eb32739.root.globalSearchDataConfigId</unique_name><value>74d49b7cf1ee31106a5db2f0a276df30</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-239154463</payload_hash>
+        <record_name>globalSearchDataConfigId</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:49:22</sys_created_on>
+        <sys_id>7d4312d193a23110d2eff24efaba1025</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bd52cc3460000001</sys_recorded_at>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 22:49:22</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>3d4312d13ba23110159f38589cb27c25</update_guid>
+        <update_guid_history>3d4312d13ba23110159f38589cb27c25:-239154463</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:49:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>39fea35828cf43caba7831491e1862e4</sys_id>
+        <sys_metadata>78d49b7c4aee3110b6a0cd3dbdeb6a27</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_78d49b7c4aee3110b6a0cd3dbdeb6a27</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_78d49b7c4aee3110b6a0cd3dbdeb6a27">7d4312d193a23110d2eff24efaba1025</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 22:49:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

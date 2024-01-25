@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:01:50</sys_created_on>
+        <sys_id>e968429593623110d2eff24efaba108f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1207268_beautify_beautify.task_activity_writer</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_security_acl display_value="x_1207268_beautify_beautify">d968429593623110d2eff24efaba1039</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e968429593623110d2eff24efaba108f</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 22:01:50</sys_updated_on>
+        <sys_user_role display_value="task_activity_writer" name="task_activity_writer">0cb98b43eb31310023c7a9bcf106fece</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

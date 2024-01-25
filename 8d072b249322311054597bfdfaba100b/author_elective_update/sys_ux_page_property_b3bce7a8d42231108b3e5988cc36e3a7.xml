@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>User Preferences</description>
+        <name>chrome_preferences</name>
+        <page display_value="BEAUTIFY">7fbce7a833223110ec9b6ef2bb1c33b8</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 21:24:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>b3bce7a8d42231108b3e5988cc36e3a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_preferences</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_ux_page_property_b3bce7a8d42231108b3e5988cc36e3a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-13 21:24:51</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1207268_beautify.7fbce7a833223110ec9b6ef2bb1c33b8.root.chrome_preferences</unique_name>
+        <value>[&#13;
+  "workspace.notifications.inbox.desktop",&#13;
+  "workspace.notifications.inbox.audio",&#13;
+  "workspace.notifications.chat.desktop",&#13;
+  "workspace.notifications.chat.audio",&#13;
+  "workspace.showRibbon",&#13;
+  "workspace.showAgentAssist",&#13;
+  "workspace.wrapListText",&#13;
+  "workspace.notifications.showPopups",&#13;
+  "workspace.notifications.showBadgeCount",&#13;
+  "rowcount",&#13;
+  "ts.match",&#13;
+  "glide.ui.accessibility",&#13;
+  "glide.ui.report.accessibility.patterns",&#13;
+  "glide.ui.date_format",&#13;
+  "list_export.deliveryType",&#13;
+  "list_export.orientationType",&#13;
+  "list_export.fileType",&#13;
+  "list_export.email"&#13;
+]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=b3bce7a8d42231108b3e5988cc36e3a7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sys_ux_page_property_b3bce7a8d42231108b3e5988cc36e3a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>User Preferences</description><name>chrome_preferences</name><page display_value="BEAUTIFY">7fbce7a833223110ec9b6ef2bb1c33b8</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-13 21:24:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>b3bce7a8d42231108b3e5988cc36e3a7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_preferences</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sys_ux_page_property_b3bce7a8d42231108b3e5988cc36e3a7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-13 21:24:51</sys_updated_on><type>json</type><unique_name>x_1207268_beautify.7fbce7a833223110ec9b6ef2bb1c33b8.root.chrome_preferences</unique_name><value>[&#13;
+  "workspace.notifications.inbox.desktop",&#13;
+  "workspace.notifications.inbox.audio",&#13;
+  "workspace.notifications.chat.desktop",&#13;
+  "workspace.notifications.chat.audio",&#13;
+  "workspace.showRibbon",&#13;
+  "workspace.showAgentAssist",&#13;
+  "workspace.wrapListText",&#13;
+  "workspace.notifications.showPopups",&#13;
+  "workspace.notifications.showBadgeCount",&#13;
+  "rowcount",&#13;
+  "ts.match",&#13;
+  "glide.ui.accessibility",&#13;
+  "glide.ui.report.accessibility.patterns",&#13;
+  "glide.ui.date_format",&#13;
+  "list_export.deliveryType",&#13;
+  "list_export.orientationType",&#13;
+  "list_export.fileType",&#13;
+  "list_export.email"&#13;
+]</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=b3bce7a8d42231108b3e5988cc36e3a7"/></record_update>]]></payload>
+        <payload_hash>1530785094</payload_hash>
+        <record_name>chrome_preferences</record_name>
+        <reverted_from/>
+        <source>695a1bff93333110d2eff24efaba1077</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 22:11:05</sys_created_on>
+        <sys_id>5157336493a23110d2eff24efaba10e1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>18bcabcfca80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 01:43:09</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>11573364b0a231101b4d75c03af8d3e1</update_guid>
+        <update_guid_history>11573364b0a231101b4d75c03af8d3e1:1530785094</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-14 13:24:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>64f59cb7414a46ea8c4b5b0bc49e80f9</sys_id>
+        <sys_metadata>b3bce7a8d42231108b3e5988cc36e3a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_preferences</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_b3bce7a8d42231108b3e5988cc36e3a7</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_b3bce7a8d42231108b3e5988cc36e3a7">5157336493a23110d2eff24efaba10e1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-14 13:24:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

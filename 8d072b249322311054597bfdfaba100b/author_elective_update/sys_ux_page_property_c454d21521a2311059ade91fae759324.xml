@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="">c054d21543a231106448024798b65235</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:53:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c454d21521a2311059ade91fae759324</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_ux_page_property_c454d21521a2311059ade91fae759324</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 22:53:55</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1207268_beautify.c054d21543a231106448024798b65235.root.wbApplicabilityConfigId</unique_name>
+        <value>f9daf82749109581374d10b6c97ac9dc</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sys_ux_page_property_c454d21521a2311059ade91fae759324</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>sys_ux_applicability sys_id for Workspace audience</description><name>wbApplicabilityConfigId</name><page display_value="">c054d21543a231106448024798b65235</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-15 22:53:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>c454d21521a2311059ade91fae759324</sys_id><sys_mod_count>0</sys_mod_count><sys_name>wbApplicabilityConfigId</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sys_ux_page_property_c454d21521a2311059ade91fae759324</sys_update_name><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-15 22:53:55</sys_updated_on><type>string</type><unique_name>x_1207268_beautify.c054d21543a231106448024798b65235.root.wbApplicabilityConfigId</unique_name><value>f9daf82749109581374d10b6c97ac9dc</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-269759237</payload_hash>
+        <record_name>wbApplicabilityConfigId</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-25 20:28:37</sys_created_on>
+        <sys_id>54fb138893000210d2eff24efaba10e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d424f6b1f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:28:37</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>14fb13885f0002108694ac2dc1eda6e3</update_guid>
+        <update_guid_history>14fb13885f0002108694ac2dc1eda6e3:-269759237</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-25 20:28:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>bc455eb53722492691917d8ec0d18599</sys_id>
+        <sys_metadata>c454d21521a2311059ade91fae759324</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_c454d21521a2311059ade91fae759324</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_c454d21521a2311059ade91fae759324">54fb138893000210d2eff24efaba10e3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:28:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

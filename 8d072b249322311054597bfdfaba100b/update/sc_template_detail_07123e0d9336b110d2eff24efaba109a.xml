@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_template_detail">
+    <sc_template_detail action="INSERT_OR_UPDATE">
+        <applies_to_multi_row_variable_set>false</applies_to_multi_row_variable_set>
+        <item_option_new display_value="Description">48336350c7721010159ca1e603c260fb</item_option_new>
+        <mandatory>false</mandatory>
+        <readonly>true</readonly>
+        <restricted>false</restricted>
+        <set/>
+        <sys_class_name>sc_template_detail</sys_class_name>
+        <sys_created_by>LaSalle</sys_created_by>
+        <sys_created_on>2023-11-27 16:41:18</sys_created_on>
+        <sys_id>07123e0d9336b110d2eff24efaba109a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sc_template_detail_07123e0d9336b110d2eff24efaba109a</sys_update_name>
+        <sys_updated_by>LaSalle</sys_updated_by>
+        <sys_updated_on>2023-11-27 16:44:56</sys_updated_on>
+        <template display_value="Beautify Appointment">a0e136c99336b110d2eff24efaba10a9</template>
+        <value>&lt;p&gt;Eyebrow waxing is a method of removing unwanted hair, either as a cold or hot wax. Cold wax strips are pieces of pre-waxed and ready-to-use muslin or cellulose strips that are pre-cut to different sizes according to the areas where they are meant to be used. This method is called &amp;ldquo;cold wax&amp;rdquo; because it doesn&amp;rsquo;t need to be heated, unlike hot wax, which requires heat. Most cold wax strips have to be warmed slightly between the palms of your hands. Each wax strip has two sides: one side contains the pre-wax and the other has a clear layer that needs to be removed in order to expose the wax.&lt;/p&gt;</value>
+    </sc_template_detail>
+</record_update>

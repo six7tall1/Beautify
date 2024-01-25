@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">cc54d215c3a2311058e0d6a62376302d</canvas>
+        <component display_value="">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Beautify","sourceType":"table","tableOrViewName":"x_1207268_beautify_beautify","filterQuery":"active=true^assigned_toISEMPTY","id":"dGFibGV0YXNrMTY1Mzg0MTk5Mjg3MA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Unassigned Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MTk5Mjg3MA==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNVGs1TWpnM01BPT0xNjUzODQyMzc3NTI1","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"configVersion":"23.0.0-ci-SNAPSHOT"}</component_props>
+        <h>9</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:53:56</sys_created_on>
+        <sys_id>c854d21558a23110b19bc797ce82392b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_widget_c854d21558a23110b19bc797ce82392b</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 22:53:58</sys_updated_on>
+        <visualization/>
+        <w>16</w>
+        <x>16</x>
+        <y>3</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>par_dashboard_widget_c854d21558a23110b19bc797ce82392b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">cc54d215c3a2311058e0d6a62376302d</canvas><component display_value="">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Beautify","sourceType":"table","tableOrViewName":"x_1207268_beautify_beautify","filterQuery":"active=true^assigned_toISEMPTY","id":"dGFibGV0YXNrMTY1Mzg0MTk5Mjg3MA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Unassigned Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MTk5Mjg3MA==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNVGs1TWpnM01BPT0xNjUzODQyMzc3NTI1","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"configVersion":"23.0.0-ci-SNAPSHOT"}</component_props><h>9</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-15 22:53:56</sys_created_on><sys_id>c854d21558a23110b19bc797ce82392b</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>par_dashboard_widget_c854d21558a23110b19bc797ce82392b</sys_update_name><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-15 22:53:58</sys_updated_on><visualization/><w>16</w><x>16</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1539321851</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:53:58</sys_created_on>
+        <sys_id>c954161593a23110d2eff24efaba1004</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bd530f9b90000001</sys_recorded_at>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 22:53:58</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>c1541615f6a231105172fba2299f6704</update_guid>
+        <update_guid_history>c1541615f6a231105172fba2299f6704:1539321851,cd54161519a23110c25c4307648d8c02:-1290646983</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">79b5129593a23110d2eff24efaba1062</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 23:00:01</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>3380602e9c504119b99b6fd252986ff9</sys_id>
+        <sys_metadata>c854d21558a23110b19bc797ce82392b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_c854d21558a23110b19bc797ce82392b</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_c854d21558a23110b19bc797ce82392b">c954161593a23110d2eff24efaba1004</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 23:00:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

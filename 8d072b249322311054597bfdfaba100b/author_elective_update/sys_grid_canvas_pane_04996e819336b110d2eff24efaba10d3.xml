@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Beautify Salon - New Tab 3">3a986e419336b110d2eff24efaba10fa</grid_canvas>
+        <height>14</height>
+        <portal_widget display_value="Created 11-27-2023 11:03:57 AM">c09966819336b110d2eff24efaba101a</portal_widget>
+        <posx>0</posx>
+        <posy>24</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-27 16:03:57</sys_created_on>
+        <sys_id>04996e819336b110d2eff24efaba10d3</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>3a986e419336b110d2eff24efaba10fa</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_04996e819336b110d2eff24efaba10d3</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-27 16:07:05</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sys_grid_canvas_pane_04996e819336b110d2eff24efaba10d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Beautify Salon - New Tab 3">3a986e419336b110d2eff24efaba10fa</grid_canvas><height>14</height><portal_widget display_value="Created 11-27-2023 11:03:57 AM">c09966819336b110d2eff24efaba101a</portal_widget><posx>0</posx><posy>24</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-27 16:03:57</sys_created_on><sys_id>04996e819336b110d2eff24efaba10d3</sys_id><sys_mod_count>8</sys_mod_count><sys_name>3a986e419336b110d2eff24efaba10fa</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sys_grid_canvas_pane_04996e819336b110d2eff24efaba10d3</sys_update_name><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-27 16:07:05</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>1834728832</payload_hash>
+        <record_name>3a986e419336b110d2eff24efaba10fa</record_name>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-27 16:07:05</sys_created_on>
+        <sys_id>7d4aaac19336b110d2eff24efaba10d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c1188c49a0000001</sys_recorded_at>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-27 16:07:05</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>754aaac19736b110fae5b23db78843d6</update_guid>
+        <update_guid_history>754aaac19736b110fae5b23db78843d6:1834728832,ac4aa2c12d36b1106f1fc914af2d98b3:-286823491,7a3aa6c12836b1106fe1aa9359e1da20:-44797791,f90ae2c14f36b11058a17317fd73adf5:-10222691,b3a926814136b110ac7ef6fcb74581ea:1369364526,9ba9e281d936b1102419e77941797334:1182645469,1aa9ee814436b11035640b0e958302c2:1599288673,a9a9ee81e436b11041ab5ec259feada9:-920338021,c0996e81a036b11023249204bea005d4:-2142105302</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-27 16:07:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>0dd3fd792ef3495c9465005a6a36fa90</sys_id>
+        <sys_metadata>04996e819336b110d2eff24efaba10d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3a986e419336b110d2eff24efaba10fa</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_04996e819336b110d2eff24efaba10d3</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_04996e819336b110d2eff24efaba10d3">7d4aaac19336b110d2eff24efaba10d6</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-27 16:07:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

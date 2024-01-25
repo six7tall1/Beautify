@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>A default view for BEAUTIFY generated</description>
+        <name>view</name>
+        <page display_value="BEAUTIFY">c054d21543a231106448024798b65235</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:53:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>8854d21529a231109103abdd085f5224</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_ux_page_property_8854d21529a231109103abdd085f5224</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 22:54:00</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1207268_beautify.c054d21543a231106448024798b65235.root.view</unique_name>
+        <value>workspace-beautify-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=8854d21529a231109103abdd085f5224"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sys_ux_page_property_8854d21529a231109103abdd085f5224</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>A default view for BEAUTIFY generated</description><name>view</name><page display_value="BEAUTIFY">c054d21543a231106448024798b65235</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-15 22:53:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>8854d21529a231109103abdd085f5224</sys_id><sys_mod_count>1</sys_mod_count><sys_name>view</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sys_ux_page_property_8854d21529a231109103abdd085f5224</sys_update_name><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-15 22:54:00</sys_updated_on><type>string</type><unique_name>x_1207268_beautify.c054d21543a231106448024798b65235.root.view</unique_name><value>workspace-beautify-0</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=8854d21529a231109103abdd085f5224"/></record_update>]]></payload>
+        <payload_hash>354230156</payload_hash>
+        <record_name>view</record_name>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:54:00</sys_created_on>
+        <sys_id>e154561593a23110d2eff24efaba1061</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bd53102d00000001</sys_recorded_at>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 22:54:00</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>e9545615c0a23110011bc04506632260</update_guid>
+        <update_guid_history>e9545615c0a23110011bc04506632260:354230156,e5545615daa231108200bb707c81e85f:1482272626</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-25 20:28:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>be51f1ad87d445dc9767e89ad39a33e4</sys_id>
+        <sys_metadata>8854d21529a231109103abdd085f5224</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_8854d21529a231109103abdd085f5224</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_8854d21529a231109103abdd085f5224">e154561593a23110d2eff24efaba1061</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:28:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

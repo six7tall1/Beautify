@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <evam_definition/>
+        <genius_results_limit/>
+        <hit_highlighting>false</hit_highlighting>
+        <name>BEAUTIFY - Workspace Search</name>
+        <search_engine>zing</search_engine>
+        <search_profile/>
+        <search_results_limit>10</search_results_limit>
+        <spell_check>false</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:53:55</sys_created_on>
+        <sys_id>8c54d215ada231104d52216324b83a2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BEAUTIFY - Workspace Search</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_search_context_config_8c54d215ada231104d52216324b83a2b</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 22:53:55</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=8c54d215ada231104d52216324b83a2b"/>
+</record_update>

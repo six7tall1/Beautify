@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 21:24:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>77bce7a80b2231105175f1b9c3e0d7b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>m2m_app_config_theme_77bce7a80b2231105175f1b9c3e0d7b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-13 21:24:51</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">3bbce7a842223110ee3a147d4bf85eb8</theme>
+        <ux_app_configuration display_value="BEAUTIFY Config">b3bce7a8b5223110dff9a786d9e8f2b9</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>m2m_app_config_theme_77bce7a80b2231105175f1b9c3e0d7b8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-13 21:24:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>77bce7a80b2231105175f1b9c3e0d7b8</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>m2m_app_config_theme_77bce7a80b2231105175f1b9c3e0d7b8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-13 21:24:51</sys_updated_on><theme display_value="Starter Workspace Theme">3bbce7a842223110ee3a147d4bf85eb8</theme><ux_app_configuration display_value="BEAUTIFY Config">b3bce7a8b5223110dff9a786d9e8f2b9</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>-1724677896</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>695a1bff93333110d2eff24efaba1077</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 22:10:59</sys_created_on>
+        <sys_id>4c577f2493a23110d2eff24efaba10e3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>18bcabce5740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 01:43:09</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>0c577f2439a23110767f29f22c241ee3</update_guid>
+        <update_guid_history>0c577f2439a23110767f29f22c241ee3:-1724677896</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">ceb94f7093ee3110d2eff24efaba10a7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-14 13:30:16</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>03f69720ef81400793875eda6c14dad1</sys_id>
+        <sys_metadata>77bce7a80b2231105175f1b9c3e0d7b8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_77bce7a80b2231105175f1b9c3e0d7b8</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_77bce7a80b2231105175f1b9c3e0d7b8">4c577f2493a23110d2eff24efaba10e3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-14 13:30:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

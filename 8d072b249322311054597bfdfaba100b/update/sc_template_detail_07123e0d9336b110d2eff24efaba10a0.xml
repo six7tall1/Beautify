@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_template_detail">
+    <sc_template_detail action="INSERT_OR_UPDATE">
+        <applies_to_multi_row_variable_set>false</applies_to_multi_row_variable_set>
+        <item_option_new display_value="Short description">a79d1b9cc7321010159ca1e603c2603e</item_option_new>
+        <mandatory>false</mandatory>
+        <readonly>true</readonly>
+        <restricted>false</restricted>
+        <set/>
+        <sys_class_name>sc_template_detail</sys_class_name>
+        <sys_created_by>LaSalle</sys_created_by>
+        <sys_created_on>2023-11-27 16:41:18</sys_created_on>
+        <sys_id>07123e0d9336b110d2eff24efaba10a0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sc_template_detail_07123e0d9336b110d2eff24efaba10a0</sys_update_name>
+        <sys_updated_by>LaSalle</sys_updated_by>
+        <sys_updated_on>2023-11-27 16:44:56</sys_updated_on>
+        <template display_value="Beautify Appointment">a0e136c99336b110d2eff24efaba10a9</template>
+        <value>Eyebrow waxing is a method of removing unwanted hair, either as a cold or hot wax.</value>
+    </sc_template_detail>
+</record_update>

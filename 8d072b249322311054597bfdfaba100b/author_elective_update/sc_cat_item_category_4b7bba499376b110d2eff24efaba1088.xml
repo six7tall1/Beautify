@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Eyebrow Wax">6be6f6c19376b110d2eff24efaba109e</sc_cat_item>
+        <sc_category display_value="Beautify">1fa5ba419376b110d2eff24efaba1004</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>LaSalle</sys_created_by>
+        <sys_created_on>2023-11-27 17:22:15</sys_created_on>
+        <sys_id>4b7bba499376b110d2eff24efaba1088</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Beautify.Eyebrow Wax</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sc_cat_item_category_4b7bba499376b110d2eff24efaba1088</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-27 17:27:06</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sc_cat_item_category_4b7bba499376b110d2eff24efaba1088</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Eyebrow Wax">6be6f6c19376b110d2eff24efaba109e</sc_cat_item><sc_category display_value="Beautify">1fa5ba419376b110d2eff24efaba1004</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>LaSalle</sys_created_by><sys_created_on>2023-11-27 17:22:15</sys_created_on><sys_id>4b7bba499376b110d2eff24efaba1088</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Beautify.Eyebrow Wax</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sc_cat_item_category_4b7bba499376b110d2eff24efaba1088</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-27 17:27:06</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-356469123</payload_hash>
+        <record_name>Beautify.Eyebrow Wax</record_name>
+        <reverted_from/>
+        <source>535d7c6993723110d2eff24efaba10ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-28 21:28:12</sys_created_on>
+        <sys_id>275dbc6993723110d2eff24efaba10eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c17d51f860000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-28 21:28:12</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>e75dbc69dd723110df4897ddad796aea</update_guid>
+        <update_guid_history>e75dbc69dd723110df4897ddad796aea:-356469123,069c32c93f76b1108e21024974288cf9:467098889</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Beautify.Eyebrow Wax">a35dbc6993723110d2eff24efaba10f0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-28 21:28:12</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>022c9139e3784230802c4651c861c840</sys_id>
+        <sys_metadata>4b7bba499376b110d2eff24efaba1088</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Beautify.Eyebrow Wax</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_4b7bba499376b110d2eff24efaba1088</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_4b7bba499376b110d2eff24efaba1088">275dbc6993723110d2eff24efaba10eb</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-28 21:28:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

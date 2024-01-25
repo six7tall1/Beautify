@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Customer Information" section_id="1ad45f7c93ee3110d2eff24efaba10b1" sys_domain="global" table="x_1207268_beautify_beautify" version="3" view="workspace-beautify-salon-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>0</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 14:18:53</sys_created_on>
+            <sys_id>dad45f7c93ee3110d2eff24efaba10b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 14:18:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>1</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 14:18:53</sys_created_on>
+            <sys_id>ded45f7c93ee3110d2eff24efaba10b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 14:18:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 14:18:53</sys_created_on>
+            <sys_id>d6d45f7c93ee3110d2eff24efaba10b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 14:18:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>3</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 14:18:53</sys_created_on>
+            <sys_id>ded45f7c93ee3110d2eff24efaba10b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 14:18:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone_number</element>
+            <position>4</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 14:18:53</sys_created_on>
+            <sys_id>d6d45f7c93ee3110d2eff24efaba10b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 14:18:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 14:18:53</sys_created_on>
+            <sys_id>d2d45f7c93ee3110d2eff24efaba10b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 14:18:53</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_requested</element>
+            <position>6</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 14:18:53</sys_created_on>
+            <sys_id>dad45f7c93ee3110d2eff24efaba10b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 14:18:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>appointment_status</element>
+            <position>7</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 14:18:53</sys_created_on>
+            <sys_id>d2d45f7c93ee3110d2eff24efaba10b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 14:18:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>serviced</element>
+            <position>8</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 14:18:53</sys_created_on>
+            <sys_id>dad45f7c93ee3110d2eff24efaba10b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 14:18:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Customer Information</caption>
+            <header>false</header>
+            <name>x_1207268_beautify_beautify</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 14:18:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ad45f7c93ee3110d2eff24efaba10b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1207268_beautify_beautify</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+            <sys_update_name>sys_ui_section_1ad45f7c93ee3110d2eff24efaba10b1</sys_update_name>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 14:18:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace BEAUTIFY SALON 0" name="workspace-beautify-salon-0">34d49b7c56ee3110730113e3e0bbb82f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sys_ui_section_1ad45f7c93ee3110d2eff24efaba10b1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Customer Information" section_id="1ad45f7c93ee3110d2eff24efaba10b1" sys_domain="global" table="x_1207268_beautify_beautify" version="3" view="workspace-beautify-salon-0"><sys_ui_element action="INSERT_OR_UPDATE"><element>first_name</element><position>0</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 14:18:53</sys_created_on><sys_id>dad45f7c93ee3110d2eff24efaba10b3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 14:18:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>email</element><position>1</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 14:18:53</sys_created_on><sys_id>ded45f7c93ee3110d2eff24efaba10b3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 14:18:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 14:18:53</sys_created_on><sys_id>d6d45f7c93ee3110d2eff24efaba10b4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 14:18:53</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>last_name</element><position>3</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 14:18:53</sys_created_on><sys_id>ded45f7c93ee3110d2eff24efaba10b4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 14:18:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>phone_number</element><position>4</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 14:18:53</sys_created_on><sys_id>d6d45f7c93ee3110d2eff24efaba10b5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 14:18:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>5</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 14:18:53</sys_created_on><sys_id>d2d45f7c93ee3110d2eff24efaba10b4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 14:18:53</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>service_requested</element><position>6</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 14:18:53</sys_created_on><sys_id>dad45f7c93ee3110d2eff24efaba10b4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 14:18:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>appointment_status</element><position>7</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 14:18:53</sys_created_on><sys_id>d2d45f7c93ee3110d2eff24efaba10b5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 14:18:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>serviced</element><position>8</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 14:18:53</sys_created_on><sys_id>dad45f7c93ee3110d2eff24efaba10b5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_1207268_beautify_beautify" sys_domain="global" view="34d49b7c56ee3110730113e3e0bbb82f">1ad45f7c93ee3110d2eff24efaba10b1</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 14:18:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Customer Information</caption><header>false</header><name>x_1207268_beautify_beautify</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 14:18:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1ad45f7c93ee3110d2eff24efaba10b1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1207268_beautify_beautify</sys_name><sys_overrides/><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sys_ui_section_1ad45f7c93ee3110d2eff24efaba10b1</sys_update_name><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 14:18:53</sys_updated_on><sys_user/><title>false</title><view display_value="Workspace BEAUTIFY SALON 0" name="workspace-beautify-salon-0">34d49b7c56ee3110730113e3e0bbb82f</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-299488792</payload_hash>
+        <record_name>Beautify</record_name>
+        <reverted_from/>
+        <source>695a1bff93333110d2eff24efaba1077</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-25 20:22:23</sys_created_on>
+        <sys_id>3c8adf8493000210d2eff24efaba10f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d4249b4c20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:22:23</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>f88adf84bd00021005d1a34e1f1445f8</update_guid>
+        <update_guid_history>f88adf84bd00021005d1a34e1f1445f8:-299488792</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-25 20:22:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1f664cc395284e668f43d587b2e0ede1</sys_id>
+        <sys_metadata>1ad45f7c93ee3110d2eff24efaba10b1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer Information</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent display_value="Beautify">d2c727649322311054597bfdfaba10ca</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sys_ui_section_1ad45f7c93ee3110d2eff24efaba10b1</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_1ad45f7c93ee3110d2eff24efaba10b1">3c8adf8493000210d2eff24efaba10f8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:22:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

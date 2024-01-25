@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_user_metadata">
+    <par_dashboard_user_metadata action="INSERT_OR_UPDATE">
+        <created_by_user display_value="Gil Pares">8bb94a8793123110d2eff24efaba1074</created_by_user>
+        <created_on>2023-11-14 15:02:25</created_on>
+        <dashboard display_value="Untitled">8cde973893227110d2eff24efaba1098</dashboard>
+        <last_updated_on>2023-11-14 15:02:25</last_updated_on>
+        <requested_by_user/>
+        <sys_class_name>par_dashboard_user_metadata</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 15:02:25</sys_created_on>
+        <sys_id>c0de973893227110d2eff24efaba109b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_user_metadata_c0de973893227110d2eff24efaba109b</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 15:02:25</sys_updated_on>
+        <updated_by_user display_value="Gil Pares">8bb94a8793123110d2eff24efaba1074</updated_by_user>
+    </par_dashboard_user_metadata>
+</record_update>

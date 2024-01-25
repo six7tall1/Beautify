@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Appointment List View">3881696d93f23110d2eff24efaba10da</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2023-11-29 00:06:07</sys_created_on>
+        <sys_id>fc81696d93f23110d2eff24efaba10da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3881696d93f23110d2eff24efaba10da</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_report_users_groups_fc81696d93f23110d2eff24efaba10da</sys_update_name>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2023-11-29 00:06:07</sys_updated_on>
+        <user_id display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</user_id>
+    </sys_report_users_groups>
+</record_update>

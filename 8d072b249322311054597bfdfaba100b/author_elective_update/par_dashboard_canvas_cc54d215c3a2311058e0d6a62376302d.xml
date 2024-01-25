@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas">
+    <par_dashboard_canvas action="DELETE">
+        <dashboard display_value="Beautify Salon">8454d215caa23110aecdc9ef77edec2d</dashboard>
+        <dashboard_tab display_value="Tab">4854d215a2a231101e2ae3528f50812d</dashboard_tab>
+        <layout>[{"sys_id":"a879da5993a23110d2eff24efaba1031","x":0,"y":41,"w":8,"h":10,"component_id":"259e0221ff18a75c5f5f0fb28fa5d32f","component_props":"{\"table\":\"task\",\"reportSource\":\"\",\"encodedQuery\":\"\",\"startDateField\":\"opened_at\",\"endDateField\":\"closed_at\",\"eventDisplayFields\":\"number,short_description\",\"componentTitle\":\"Calendar View\",\"followFilters\":true,\"showFilterOverview\":true,\"showDescription\":true,\"componentDescription\":\"\",\"viewType\":\"MONTH\",\"eventColor\":\"\",\"filterConfigurations\":\"@state.parFilters\"}","can_edit":true}]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:53:55</sys_created_on>
+        <sys_id>cc54d215c3a2311058e0d6a62376302d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_canvas_cc54d215c3a2311058e0d6a62376302d</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 23:16:20</sys_updated_on>
+    </par_dashboard_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>par_dashboard_canvas_cc54d215c3a2311058e0d6a62376302d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="Beautify Salon">8454d215caa23110aecdc9ef77edec2d</dashboard><dashboard_tab display_value="Tab">4854d215a2a231101e2ae3528f50812d</dashboard_tab><layout>[{"sys_id":"a879da5993a23110d2eff24efaba1031","x":0,"y":41,"w":8,"h":10,"component_id":"259e0221ff18a75c5f5f0fb28fa5d32f","component_props":"{\"table\":\"task\",\"reportSource\":\"\",\"encodedQuery\":\"\",\"startDateField\":\"opened_at\",\"endDateField\":\"closed_at\",\"eventDisplayFields\":\"number,short_description\",\"componentTitle\":\"Calendar View\",\"followFilters\":true,\"showFilterOverview\":true,\"showDescription\":true,\"componentDescription\":\"\",\"viewType\":\"MONTH\",\"eventColor\":\"\",\"filterConfigurations\":\"@state.parFilters\"}","can_edit":true}]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-15 22:53:55</sys_created_on><sys_id>cc54d215c3a2311058e0d6a62376302d</sys_id><sys_mod_count>3</sys_mod_count><sys_name/><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>par_dashboard_canvas_cc54d215c3a2311058e0d6a62376302d</sys_update_name><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-15 23:16:20</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+        <payload_hash>1254036317</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 23:16:20</sys_created_on>
+        <sys_id>7c79da5993a23110d2eff24efaba10f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bd54573900000001</sys_recorded_at>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 23:16:20</sys_updated_on>
+        <type>PAR Dashboard Page Canvas</type>
+        <update_guid>7479da5992a2311094999e55c1aac7f5</update_guid>
+        <update_guid_history>7479da5992a2311094999e55c1aac7f5:1254036317,d9f5965543a23110275011ba978ecf8c:-1125081988,f5b51295dca231108800f7e7fae49368:1742618516,7db5129517a2311031c53c6b90af7f66:1824261256</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">97c9529993a23110d2eff24efaba10c4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 23:17:53</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_canvas">par_dashboard_canvas</sys_db_object>
+        <sys_id>10106006de42461d8e03f483c85bd649</sys_id>
+        <sys_metadata>cc54d215c3a2311058e0d6a62376302d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>par_dashboard_canvas_cc54d215c3a2311058e0d6a62376302d</sys_update_name>
+        <sys_update_version display_value="par_dashboard_canvas_cc54d215c3a2311058e0d6a62376302d">7c79da5993a23110d2eff24efaba10f5</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 23:17:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

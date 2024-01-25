@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas">
+    <par_dashboard_canvas action="DELETE">
+        <dashboard display_value="Beautify Salon Appointments List View">1858e07493663110d2eff24efaba106c</dashboard>
+        <dashboard_tab display_value="Calendar View">d959283893663110d2eff24efaba1038</dashboard_tab>
+        <layout>[{"sys_id":"5559ac3893663110d2eff24efaba105e","x":0,"y":0,"w":48,"h":30,"component_id":"259e0221ff18a75c5f5f0fb28fa5d32f","component_props":"{\"table\":\"x_1207268_beautify_beautify\",\"reportSource\":\"\",\"encodedQuery\":\"\",\"startDateField\":\"appointment_date\",\"endDateField\":\"serviced\",\"eventDisplayFields\":\"number,first_name,last_name,service_requested\",\"componentTitle\":\"Appointments\",\"followFilters\":true,\"showFilterOverview\":true,\"showDescription\":true,\"componentDescription\":\"Calendar view\",\"viewType\":\"WEEK\",\"eventColor\":\"\"}","can_edit":true}]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 01:49:31</sys_created_on>
+        <sys_id>5d59ac3893663110d2eff24efaba1059</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_canvas_5d59ac3893663110d2eff24efaba1059</sys_update_name>
+        <sys_updated_by>Poppin</sys_updated_by>
+        <sys_updated_on>2023-11-14 02:52:18</sys_updated_on>
+    </par_dashboard_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>par_dashboard_canvas_5d59ac3893663110d2eff24efaba1059</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="Beautify Salon Appointments List View">1858e07493663110d2eff24efaba106c</dashboard><dashboard_tab display_value="Calendar View">d959283893663110d2eff24efaba1038</dashboard_tab><layout>[{"sys_id":"5559ac3893663110d2eff24efaba105e","x":0,"y":0,"w":48,"h":30,"component_id":"259e0221ff18a75c5f5f0fb28fa5d32f","component_props":"{\"table\":\"x_1207268_beautify_beautify\",\"reportSource\":\"\",\"encodedQuery\":\"\",\"startDateField\":\"appointment_date\",\"endDateField\":\"serviced\",\"eventDisplayFields\":\"number,first_name,last_name,service_requested\",\"componentTitle\":\"Appointments\",\"followFilters\":true,\"showFilterOverview\":true,\"showDescription\":true,\"componentDescription\":\"Calendar view\",\"viewType\":\"WEEK\",\"eventColor\":\"\"}","can_edit":true}]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 01:49:31</sys_created_on><sys_id>5d59ac3893663110d2eff24efaba1059</sys_id><sys_mod_count>7</sys_mod_count><sys_name/><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>par_dashboard_canvas_5d59ac3893663110d2eff24efaba1059</sys_update_name><sys_updated_by>Poppin</sys_updated_by><sys_updated_on>2023-11-14 02:52:18</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+        <payload_hash>157903712</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Poppin</sys_created_by>
+        <sys_created_on>2023-11-14 02:52:18</sys_created_on>
+        <sys_id>b4b73cf493a63110d2eff24efaba1094</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bcbbe734f0000001</sys_recorded_at>
+        <sys_updated_by>Poppin</sys_updated_by>
+        <sys_updated_on>2023-11-14 02:52:18</sys_updated_on>
+        <type>PAR Dashboard Page Canvas</type>
+        <update_guid>7cb73cf488a6311011d15f78821dd093</update_guid>
+        <update_guid_history>7cb73cf488a6311011d15f78821dd093:157903712,4c1470f057a63110db219943012a2100:-592332995,1a63387082a63110c129448a11a92576:422953916,1203fcb0f2a631100e6aa5617266528d:-1744300011,54f1bc7081a6311030e539d2323ad0a6:1188210612,4db96838346631103b1e542bd09afef4:-429099963,9159ac38b16631101b639df7e9f5e282:-1554786991,1d59ac3826663110a8e5af7b5928495a:-281019456</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">43adb4bc93a63110d2eff24efaba10bb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 03:18:23</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_canvas">par_dashboard_canvas</sys_db_object>
+        <sys_id>286cad1212a647198b569b4f1fbad2c1</sys_id>
+        <sys_metadata>5d59ac3893663110d2eff24efaba1059</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>par_dashboard_canvas_5d59ac3893663110d2eff24efaba1059</sys_update_name>
+        <sys_update_version display_value="par_dashboard_canvas_5d59ac3893663110d2eff24efaba1059">b4b73cf493a63110d2eff24efaba1094</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 03:18:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

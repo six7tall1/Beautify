@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Workspace-x_1207268_beautify-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:53:56</sys_created_on>
+        <sys_id>4c54d2156ea23110ebfa50214aeaca2a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Workspace-x 1207268 beautify-0</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_ui_view_4c54d2156ea23110ebfa50214aeaca2a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:21:19</sys_updated_on>
+        <title>Workspace-x 1207268 beautify-0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

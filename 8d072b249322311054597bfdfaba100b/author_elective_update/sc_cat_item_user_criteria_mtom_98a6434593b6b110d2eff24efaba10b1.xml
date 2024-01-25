@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Child Cut">9793438193b6b110d2eff24efaba107e</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>LaSalle</sys_created_by>
+        <sys_created_on>2023-11-27 18:10:56</sys_created_on>
+        <sys_id>98a6434593b6b110d2eff24efaba10b1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Child Cut.Any User</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_98a6434593b6b110d2eff24efaba10b1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-27 18:11:01</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_98a6434593b6b110d2eff24efaba10b1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Child Cut">9793438193b6b110d2eff24efaba107e</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>LaSalle</sys_created_by><sys_created_on>2023-11-27 18:10:56</sys_created_on><sys_id>98a6434593b6b110d2eff24efaba10b1</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Child Cut.Any User</sys_name><sys_package/><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_98a6434593b6b110d2eff24efaba10b1</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-27 18:11:01</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>281787746</payload_hash>
+        <record_name>Child Cut.Any User</record_name>
+        <reverted_from/>
+        <source>a5a6834593b6b110d2eff24efaba1049</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-27 18:11:02</sys_created_on>
+        <sys_id>ada6834593b6b110d2eff24efaba104e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c11fa3f310000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-27 18:11:02</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>a1a68345c0b6b1104e704085e65e6c4e</update_guid>
+        <update_guid_history>a1a68345c0b6b1104e704085e65e6c4e:281787746,21a6834517b6b110f1fd45bae77e2f4b:1282806352</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Child Cut.Any User">96c9470993b6b110d2eff24efaba102f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-27 18:24:44</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>1f8239cae32644be96e960f85a99c821</sys_id>
+        <sys_metadata>98a6434593b6b110d2eff24efaba10b1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Child Cut.Any User</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_98a6434593b6b110d2eff24efaba10b1</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_98a6434593b6b110d2eff24efaba10b1">ada6834593b6b110d2eff24efaba104e</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-27 18:24:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

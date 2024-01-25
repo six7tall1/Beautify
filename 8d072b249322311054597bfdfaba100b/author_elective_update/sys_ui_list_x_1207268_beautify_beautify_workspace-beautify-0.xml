@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_1207268_beautify_beautify" version="2" view="workspace-beautify-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-14 13:24:29</sys_created_on>
+            <sys_id>5168873093ee3110d2eff24efaba10bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-14 13:24:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>appointment_date</element>
+            <list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-14 13:24:29</sys_created_on>
+            <sys_id>5568873093ee3110d2eff24efaba10bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-14 13:24:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>first_name</element>
+            <list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-14 13:24:29</sys_created_on>
+            <sys_id>5968873093ee3110d2eff24efaba10bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-14 13:24:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>last_name</element>
+            <list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-14 13:24:29</sys_created_on>
+            <sys_id>5d68873093ee3110d2eff24efaba10bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-14 13:24:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>phone_number</element>
+            <list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-14 13:24:29</sys_created_on>
+            <sys_id>5168873093ee3110d2eff24efaba10c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-14 13:24:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>email</element>
+            <list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-14 13:24:29</sys_created_on>
+            <sys_id>5568873093ee3110d2eff24efaba10c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-14 13:24:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>service_requested</element>
+            <list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-14 13:24:29</sys_created_on>
+            <sys_id>5968873093ee3110d2eff24efaba10c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-14 13:24:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>appointment_status</element>
+            <list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-14 13:24:29</sys_created_on>
+            <sys_id>5d68873093ee3110d2eff24efaba10c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-14 13:24:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>serviced</element>
+            <list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-14 13:24:29</sys_created_on>
+            <sys_id>5168873093ee3110d2eff24efaba10c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-14 13:24:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1207268_beautify_beautify</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-14 13:24:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9568873093ee3110d2eff24efaba10be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1207268_beautify_beautify</sys_name>
+            <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+            <sys_update_name>sys_ui_list_x_1207268_beautify_beautify_workspace-beautify-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-14 13:24:29</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace BEAUTIFY 0" name="workspace-beautify-0">f7bce7a8cb223110011b830d218b25ae</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sys_ui_list_x_1207268_beautify_beautify_workspace-beautify-0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_1207268_beautify_beautify" version="2" view="workspace-beautify-0"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-14 13:24:29</sys_created_on><sys_id>5168873093ee3110d2eff24efaba10bf</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-14 13:24:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>appointment_date</element><list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-14 13:24:29</sys_created_on><sys_id>5568873093ee3110d2eff24efaba10bf</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-14 13:24:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>first_name</element><list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-14 13:24:29</sys_created_on><sys_id>5968873093ee3110d2eff24efaba10bf</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-14 13:24:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>last_name</element><list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-14 13:24:29</sys_created_on><sys_id>5d68873093ee3110d2eff24efaba10bf</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-14 13:24:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>phone_number</element><list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-14 13:24:29</sys_created_on><sys_id>5168873093ee3110d2eff24efaba10c0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-14 13:24:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>email</element><list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-14 13:24:29</sys_created_on><sys_id>5568873093ee3110d2eff24efaba10c0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-14 13:24:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>service_requested</element><list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-14 13:24:29</sys_created_on><sys_id>5968873093ee3110d2eff24efaba10c0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-14 13:24:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>appointment_status</element><list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id><max_value>false</max_value><min_value>false</min_value><position>7</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-14 13:24:29</sys_created_on><sys_id>5d68873093ee3110d2eff24efaba10c0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-14 13:24:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>serviced</element><list_id display_value="x_1207268_beautify_beautify" element="NULL" name="x_1207268_beautify_beautify" parent="NULL" relationship="NULL" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">9568873093ee3110d2eff24efaba10be</list_id><max_value>false</max_value><min_value>false</min_value><position>8</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-14 13:24:29</sys_created_on><sys_id>5168873093ee3110d2eff24efaba10c1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-14 13:24:29</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1207268_beautify_beautify</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-14 13:24:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9568873093ee3110d2eff24efaba10be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1207268_beautify_beautify</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sys_ui_list_x_1207268_beautify_beautify_workspace-beautify-0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-14 13:24:29</sys_updated_on><sys_user/><view display_value="Workspace BEAUTIFY 0" name="workspace-beautify-0">f7bce7a8cb223110011b830d218b25ae</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>230285855</payload_hash>
+        <record_name>Beautify</record_name>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-14 13:24:29</sys_created_on>
+        <sys_id>5d68873093ee3110d2eff24efaba10c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bce013cd00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-14 13:24:29</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>d16887305aee311048dca9f73a7236c3</update_guid>
+        <update_guid_history>d16887305aee311048dca9f73a7236c3:230285855,55a8fc387ca63110a7583e7854c45f45:-571114485,3cdca43cc96631108aa92f610162b49c:342879756,47cca43c5366311045d0c83e917a9832:-1624776845,3857ff2449a23110d851db3ea06ae5d1:1269797045</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-25 20:06:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>25ba8a0edc734ffaae0b4564b0c104c4</sys_id>
+        <sys_metadata>9568873093ee3110d2eff24efaba10be</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1207268_beautify_beautify</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent display_value="Beautify">d2c727649322311054597bfdfaba10ca</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_1207268_beautify_beautify_workspace-beautify-0</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_1207268_beautify_beautify_workspace-beautify-0">5d68873093ee3110d2eff24efaba10c3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:06:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

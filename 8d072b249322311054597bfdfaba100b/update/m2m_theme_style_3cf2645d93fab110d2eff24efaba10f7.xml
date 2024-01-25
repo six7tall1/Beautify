@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_theme_style">
+    <m2m_theme_style action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <style display_value="Typography">b4f2e05d93fab110d2eff24efaba10c9</style>
+        <sys_class_name>m2m_theme_style</sys_class_name>
+        <sys_created_by>LaSalle</sys_created_by>
+        <sys_created_on>2023-11-28 00:54:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3cf2645d93fab110d2eff24efaba10f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>m2m_theme_style_3cf2645d93fab110d2eff24efaba10f7</sys_update_name>
+        <sys_updated_by>LaSalle</sys_updated_by>
+        <sys_updated_on>2023-11-28 00:54:18</sys_updated_on>
+        <theme display_value="Beautify 1">a4f2e05d93fab110d2eff24efaba10bf</theme>
+    </m2m_theme_style>
+</record_update>

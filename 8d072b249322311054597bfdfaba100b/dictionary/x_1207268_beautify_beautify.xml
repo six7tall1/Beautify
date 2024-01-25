@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d2c727649322311054597bfdfaba10ca" extends="task" label="Beautify" max_length="40" name="x_1207268_beautify_beautify" text_index="true" type="collection">
+        <element label="Appointment Date" mandatory="true" max_length="40" name="appointment_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Appointment Status" max_length="40" name="appointment_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Checked In" sequence="0" value="checked_in"/>
+                <element inactive_on_update="false" label="No Show" sequence="1" value="no_show"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="2" value="cancelled"/>
+            </choice>
+        </element>
+        <element label="Email" mandatory="true" max_length="40" name="email" type="string"/>
+        <element label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element label="Last Name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="+1" label="Phone Number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" label="Serviced" max_length="40" name="serviced" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="adult_cut" label="Service Requested" max_length="40" name="service_requested" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Adult Cut" sequence="0" value="adult_cut"/>
+                <element inactive="true" inactive_on_update="true" label="Blowout" sequence="0" value="blowout"/>
+                <element inactive_on_update="false" label="Child Cut" sequence="1" value="child_cut"/>
+                <element inactive_on_update="false" label="BlowOut" sequence="2" value="BlowOut"/>
+                <element inactive_on_update="false" label="Eye Brow Wax" sequence="3" value="eye_brow_wax"/>
+                <element inactive_on_update="false" label="Adult Cut  long hair (10 inches plus)" sequence="4" value="adult_cut_long_hair_10_inches_plus"/>
+            </choice>
+        </element>
+    </element>
+</database>

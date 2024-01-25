@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="BEAUTIFY">7fbce7a833223110ec9b6ef2bb1c33b8</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 21:24:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>bbbce7a863223110108fdcb020317ba8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_ux_page_property_bbbce7a863223110108fdcb020317ba8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-13 21:24:51</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1207268_beautify.7fbce7a833223110ec9b6ef2bb1c33b8.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=bbbce7a863223110108fdcb020317ba8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sys_ux_page_property_bbbce7a863223110108fdcb020317ba8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_footer</name><page display_value="BEAUTIFY">7fbce7a833223110ec9b6ef2bb1c33b8</page><required_translations>[ ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-13 21:24:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>bbbce7a863223110108fdcb020317ba8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_footer</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sys_ux_page_property_bbbce7a863223110108fdcb020317ba8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-13 21:24:51</sys_updated_on><type>json</type><unique_name>x_1207268_beautify.7fbce7a833223110ec9b6ef2bb1c33b8.root.chrome_footer</unique_name><value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=bbbce7a863223110108fdcb020317ba8"/></record_update>]]></payload>
+        <payload_hash>82822245</payload_hash>
+        <record_name>chrome_footer</record_name>
+        <reverted_from/>
+        <source>695a1bff93333110d2eff24efaba1077</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 22:11:05</sys_created_on>
+        <sys_id>a557336493a23110d2eff24efaba10e8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>18bcabcfd060000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 01:43:09</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>655733648da2311056a1cada89ab81e8</update_guid>
+        <update_guid_history>655733648da2311056a1cada89ab81e8:82822245</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-14 13:24:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>04a870e7708e49a883e75d6ebe14c640</sys_id>
+        <sys_metadata>bbbce7a863223110108fdcb020317ba8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_bbbce7a863223110108fdcb020317ba8</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_bbbce7a863223110108fdcb020317ba8">a557336493a23110d2eff24efaba10e8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-14 13:24:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

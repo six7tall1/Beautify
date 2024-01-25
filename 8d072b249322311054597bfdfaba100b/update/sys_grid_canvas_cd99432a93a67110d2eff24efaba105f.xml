@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Beautify - New Tab">0d99432a93a67110d2eff24efaba105e</legacy_page>
+        <name>PA Beautify - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-19 23:59:02</sys_created_on>
+        <sys_id>cd99432a93a67110d2eff24efaba105f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Beautify - New Tab</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_grid_canvas_cd99432a93a67110d2eff24efaba105f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-19 23:59:02</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="BEAUTIFY SALON - Workspace Search">74d49b7cf1ee31106a5db2f0a276df30</search_context_config>
+        <source display_value="BEAUTIFY SALON - x_1207268_beautify_beautify">46d41f7c93ee3110d2eff24efaba1078</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 14:18:52</sys_created_on>
+        <sys_id>06d41f7c93ee3110d2eff24efaba107b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_06d41f7c93ee3110d2eff24efaba107b</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 14:18:52</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

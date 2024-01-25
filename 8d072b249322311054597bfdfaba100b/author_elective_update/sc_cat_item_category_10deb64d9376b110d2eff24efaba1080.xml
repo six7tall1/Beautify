@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Blowout">02bcb2c99376b110d2eff24efaba107d</sc_cat_item>
+        <sc_category display_value="Beautify">1fa5ba419376b110d2eff24efaba1004</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>LaSalle</sys_created_by>
+        <sys_created_on>2023-11-27 17:36:49</sys_created_on>
+        <sys_id>10deb64d9376b110d2eff24efaba1080</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Beautify.Blowout</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sc_cat_item_category_10deb64d9376b110d2eff24efaba1080</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-27 17:36:52</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sc_cat_item_category_10deb64d9376b110d2eff24efaba1080</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Blowout">02bcb2c99376b110d2eff24efaba107d</sc_cat_item><sc_category display_value="Beautify">1fa5ba419376b110d2eff24efaba1004</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>LaSalle</sys_created_by><sys_created_on>2023-11-27 17:36:49</sys_created_on><sys_id>10deb64d9376b110d2eff24efaba1080</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Beautify.Blowout</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sc_cat_item_category_10deb64d9376b110d2eff24efaba1080</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-27 17:36:52</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-2063225396</payload_hash>
+        <record_name>Beautify.Blowout</record_name>
+        <reverted_from/>
+        <source>d5b1970193f6b110d2eff24efaba1066</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-27 18:59:21</sys_created_on>
+        <sys_id>e9b1970193f6b110d2eff24efaba10d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c12267e600000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-27 18:59:21</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>edb19701c5f6b110e2764c9fd91861d7</update_guid>
+        <update_guid_history>edb19701c5f6b110e2764c9fd91861d7:-2063225396,c1def64d6276b1102a53f6a4186b8223:-624844712</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Beautify.Blowout">29b1970193f6b110d2eff24efaba10dc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-27 18:59:21</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>2ed9c40f897e43c287730f32770b82a4</sys_id>
+        <sys_metadata>10deb64d9376b110d2eff24efaba1080</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Beautify.Blowout</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_10deb64d9376b110d2eff24efaba1080</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_10deb64d9376b110d2eff24efaba1080">e9b1970193f6b110d2eff24efaba10d8</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-27 18:59:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

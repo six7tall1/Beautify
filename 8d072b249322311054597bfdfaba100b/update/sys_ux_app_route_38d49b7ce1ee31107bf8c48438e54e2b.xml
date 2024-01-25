@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config/>
+        <description/>
+        <extension_point/>
+        <fields>globalSearchViewConfigId</fields>
+        <icon/>
+        <name>Search</name>
+        <optional_parameters>searchTerm</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>search</route_type>
+        <screen_type display_value="Search">bcd49b7ca5ee31100c0c5470fb115f2b</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 14:18:49</sys_created_on>
+        <sys_id>38d49b7ce1ee31107bf8c48438e54e2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_ux_app_route_38d49b7ce1ee31107bf8c48438e54e2b</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 14:18:49</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=38d49b7ce1ee31107bf8c48438e54e2b"/>
+</record_update>

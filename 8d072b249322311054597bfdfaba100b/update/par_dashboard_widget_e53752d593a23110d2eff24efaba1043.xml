@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">0296de9593a23110d2eff24efaba1022</canvas>
+        <component display_value="">259e0221ff18a75c5f5f0fb28fa5d32f</component>
+        <component_props>{"table":"x_1207268_beautify_beautify","reportSource":"","encodedQuery":"","startDateField":"appointment_date","endDateField":"serviced","eventDisplayFields":"appointment_status,number,first_name,last_name,service_requested","componentTitle":"Calendar View","followFilters":true,"showFilterOverview":true,"showDescription":true,"componentDescription":"","viewType":"WEEK","eventColor":""}</component_props>
+        <h>39</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 23:06:33</sys_created_on>
+        <sys_id>e53752d593a23110d2eff24efaba1043</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_widget_e53752d593a23110d2eff24efaba1043</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-16 16:08:07</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>

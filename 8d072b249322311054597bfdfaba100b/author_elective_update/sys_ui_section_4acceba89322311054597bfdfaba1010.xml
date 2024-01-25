@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Beautify Appoinment Information" section_id="4acceba89322311054597bfdfaba1010" sys_domain="global" table="x_1207268_beautify_beautify" version="3" view="workspace-beautify-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 15:32:48</sys_created_on>
+            <sys_id>8dc56ffc93227110d2eff24efaba10a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">4acceba89322311054597bfdfaba1010</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 15:32:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>appointment_date</element>
+            <position>1</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 15:32:48</sys_created_on>
+            <sys_id>85c56ffc93227110d2eff24efaba10a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">4acceba89322311054597bfdfaba1010</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 15:32:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>2</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 15:32:48</sys_created_on>
+            <sys_id>89c56ffc93227110d2eff24efaba10a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">4acceba89322311054597bfdfaba1010</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 15:32:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>3</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 15:32:48</sys_created_on>
+            <sys_id>8dc56ffc93227110d2eff24efaba10a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">4acceba89322311054597bfdfaba1010</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 15:32:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_requested</element>
+            <position>4</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 15:32:48</sys_created_on>
+            <sys_id>81c56ffc93227110d2eff24efaba10a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">4acceba89322311054597bfdfaba1010</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 15:32:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>appointment_status</element>
+            <position>5</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 15:32:48</sys_created_on>
+            <sys_id>85c56ffc93227110d2eff24efaba10a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">4acceba89322311054597bfdfaba1010</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 15:32:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>serviced</element>
+            <position>6</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-14 15:32:48</sys_created_on>
+            <sys_id>89c56ffc93227110d2eff24efaba10a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">4acceba89322311054597bfdfaba1010</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-14 15:32:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Beautify Appoinment Information</caption>
+            <header>false</header>
+            <name>x_1207268_beautify_beautify</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-13 21:24:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4acceba89322311054597bfdfaba1010</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1207268_beautify_beautify</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+            <sys_update_name>sys_ui_section_4acceba89322311054597bfdfaba1010</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-13 21:24:59</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace BEAUTIFY 0" name="workspace-beautify-0">f7bce7a8cb223110011b830d218b25ae</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sys_ui_section_4acceba89322311054597bfdfaba1010</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Beautify Appoinment Information" section_id="4acceba89322311054597bfdfaba1010" sys_domain="global" table="x_1207268_beautify_beautify" version="3" view="workspace-beautify-0"><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 15:32:48</sys_created_on><sys_id>8dc56ffc93227110d2eff24efaba10a1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">4acceba89322311054597bfdfaba1010</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 15:32:48</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>appointment_date</element><position>1</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 15:32:48</sys_created_on><sys_id>85c56ffc93227110d2eff24efaba10a2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">4acceba89322311054597bfdfaba1010</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 15:32:48</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>first_name</element><position>2</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 15:32:48</sys_created_on><sys_id>89c56ffc93227110d2eff24efaba10a2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">4acceba89322311054597bfdfaba1010</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 15:32:48</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>last_name</element><position>3</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 15:32:48</sys_created_on><sys_id>8dc56ffc93227110d2eff24efaba10a2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">4acceba89322311054597bfdfaba1010</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 15:32:48</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>service_requested</element><position>4</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 15:32:48</sys_created_on><sys_id>81c56ffc93227110d2eff24efaba10a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">4acceba89322311054597bfdfaba1010</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 15:32:48</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>appointment_status</element><position>5</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 15:32:48</sys_created_on><sys_id>85c56ffc93227110d2eff24efaba10a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">4acceba89322311054597bfdfaba1010</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 15:32:48</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>serviced</element><position>6</position><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 15:32:48</sys_created_on><sys_id>89c56ffc93227110d2eff24efaba10a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="f7bce7a8cb223110011b830d218b25ae">4acceba89322311054597bfdfaba1010</sys_ui_section><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 15:32:48</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Beautify Appoinment Information</caption><header>false</header><name>x_1207268_beautify_beautify</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-13 21:24:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4acceba89322311054597bfdfaba1010</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1207268_beautify_beautify</sys_name><sys_overrides/><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sys_ui_section_4acceba89322311054597bfdfaba1010</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-13 21:24:59</sys_updated_on><sys_user/><title>true</title><view display_value="Workspace BEAUTIFY 0" name="workspace-beautify-0">f7bce7a8cb223110011b830d218b25ae</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1485661298</payload_hash>
+        <record_name>Beautify</record_name>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 15:32:48</sys_created_on>
+        <sys_id>41c56ffc93227110d2eff24efaba10a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bce76b5ab0000001</sys_recorded_at>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 15:32:48</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>c5c56ffc62227110e3e7f243fda387a5</update_guid>
+        <update_guid_history>c5c56ffc62227110e3e7f243fda387a5:1485661298,14ef20fc46663110d1e8485c025f87f8:1425668077,0557ff2490a23110f57d6c69ebdb34f4:1076549373</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-25 20:06:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0071ffffeae54a7081876506e8f559a1</sys_id>
+        <sys_metadata>4acceba89322311054597bfdfaba1010</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1207268_beautify_beautify</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent display_value="Beautify">d2c727649322311054597bfdfaba10ca</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sys_ui_section_4acceba89322311054597bfdfaba1010</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_4acceba89322311054597bfdfaba1010">41c56ffc93227110d2eff24efaba10a6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:06:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

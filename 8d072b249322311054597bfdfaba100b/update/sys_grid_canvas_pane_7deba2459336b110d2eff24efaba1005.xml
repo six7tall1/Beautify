@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Beautify Salon - New Tab 5">75db2e059336b110d2eff24efaba10ca</grid_canvas>
+        <height>22</height>
+        <portal_widget display_value="Created 11/27/2023 11:14:10 AM">f1eba2459336b110d2eff24efaba1004</portal_widget>
+        <posx>0</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-27 16:14:10</sys_created_on>
+        <sys_id>7deba2459336b110d2eff24efaba1005</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>75db2e059336b110d2eff24efaba10ca</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_7deba2459336b110d2eff24efaba1005</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-28 00:48:02</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>

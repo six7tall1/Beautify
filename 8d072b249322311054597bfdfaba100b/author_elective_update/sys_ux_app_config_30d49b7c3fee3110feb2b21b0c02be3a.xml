@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon>fd90a77893227110d2eff24efaba1050</custom_icon>
+        <default_route_type/>
+        <description>Beautify Salon Workspace</description>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>BEAUTIFY SALON Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 14:18:48</sys_created_on>
+        <sys_id>30d49b7c3fee3110feb2b21b0c02be3a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>BEAUTIFY SALON Config</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_ux_app_config_30d49b7c3fee3110feb2b21b0c02be3a</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 15:10:11</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="DELETE" query="documentkey=30d49b7c3fee3110feb2b21b0c02be3a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sys_ux_app_config_30d49b7c3fee3110feb2b21b0c02be3a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon>fd90a77893227110d2eff24efaba1050</custom_icon><default_route_type/><description>Beautify Salon Workspace</description><encode_query_string>false</encode_query_string><icon/><landing_path>home</landing_path><name>BEAUTIFY SALON Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 14:18:48</sys_created_on><sys_id>30d49b7c3fee3110feb2b21b0c02be3a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>BEAUTIFY SALON Config</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sys_ux_app_config_30d49b7c3fee3110feb2b21b0c02be3a</sys_update_name><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 15:10:11</sys_updated_on></sys_ux_app_config><sys_translated_text action="delete_multiple" query="documentkey=30d49b7c3fee3110feb2b21b0c02be3a"/></record_update>]]></payload>
+        <payload_hash>-984748451</payload_hash>
+        <record_name>BEAUTIFY SALON Config</record_name>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 15:10:11</sys_created_on>
+        <sys_id>b99027b893227110d2eff24efaba1024</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bce6202a60000001</sys_recorded_at>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 15:10:11</sys_updated_on>
+        <type>UX App Configuration</type>
+        <update_guid>b19027b8e32271108038731bd455a324</update_guid>
+        <update_guid_history>b19027b8e32271108038731bd455a324:-984748451,7590a778cb2271102da5d235683d3556:-637945193</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:51:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>570863428d7d4860ab00c98263e0a640</sys_id>
+        <sys_metadata>30d49b7c3fee3110feb2b21b0c02be3a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BEAUTIFY SALON Config</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_30d49b7c3fee3110feb2b21b0c02be3a</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_30d49b7c3fee3110feb2b21b0c02be3a">b99027b893227110d2eff24efaba1024</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 22:51:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

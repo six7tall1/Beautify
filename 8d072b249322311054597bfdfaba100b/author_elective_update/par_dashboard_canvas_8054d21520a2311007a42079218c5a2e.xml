@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas">
+    <par_dashboard_canvas action="DELETE">
+        <dashboard display_value="">8454d215caa23110aecdc9ef77edec2d</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:53:55</sys_created_on>
+        <sys_id>8054d21520a2311007a42079218c5a2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_canvas_8054d21520a2311007a42079218c5a2e</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 22:53:55</sys_updated_on>
+    </par_dashboard_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>par_dashboard_canvas_8054d21520a2311007a42079218c5a2e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="">8454d215caa23110aecdc9ef77edec2d</dashboard><dashboard_tab/><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-15 22:53:55</sys_created_on><sys_id>8054d21520a2311007a42079218c5a2e</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>par_dashboard_canvas_8054d21520a2311007a42079218c5a2e</sys_update_name><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-15 22:53:55</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+        <payload_hash>-1376069430</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 23:17:53</sys_created_on>
+        <sys_id>53c9529993a23110d2eff24efaba10ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bd546de200000001</sys_recorded_at>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 23:17:53</sys_updated_on>
+        <type>PAR Dashboard Page Canvas</type>
+        <update_guid>13c9529947a2311028b50bb5ee69e1ae</update_guid>
+        <update_guid_history>13c9529947a2311028b50bb5ee69e1ae:-1376069430</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9bc9529993a23110d2eff24efaba10af</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 23:17:53</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_canvas">par_dashboard_canvas</sys_db_object>
+        <sys_id>3b38290896ad4bc3bf2d0f2e49d96cf9</sys_id>
+        <sys_metadata>8054d21520a2311007a42079218c5a2e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>par_dashboard_canvas_8054d21520a2311007a42079218c5a2e</sys_update_name>
+        <sys_update_version display_value="par_dashboard_canvas_8054d21520a2311007a42079218c5a2e">53c9529993a23110d2eff24efaba10ae</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 23:17:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

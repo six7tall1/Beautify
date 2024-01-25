@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_template">
+    <sc_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_for>fb1166d64fff0200086eeed18110c7ab,76f09af6cb1200108ad442fcf7076dbf</available_for>
+        <cat_item display_value="Record Producer Builder">3558cf50c7321010159ca1e603c2605b</cat_item>
+        <name>Beautify</name>
+        <short_description/>
+        <sys_class_name>sc_template</sys_class_name>
+        <sys_created_by>LaSalle</sys_created_by>
+        <sys_created_on>2023-11-27 16:49:07</sys_created_on>
+        <sys_id>9cc3ba8d9336b110d2eff24efaba1034</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Beautify</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sc_template_9cc3ba8d9336b110d2eff24efaba1034</sys_update_name>
+        <sys_updated_by>LaSalle</sys_updated_by>
+        <sys_updated_on>2023-11-27 16:49:07</sys_updated_on>
+        <use_template_scope>true</use_template_scope>
+    </sc_template>
+    <sys_translated_text action="delete_multiple" query="documentkey=9cc3ba8d9336b110d2eff24efaba1034"/>
+</record_update>

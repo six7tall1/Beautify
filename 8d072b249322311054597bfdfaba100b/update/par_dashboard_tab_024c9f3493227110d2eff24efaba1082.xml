@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_tab">
+    <par_dashboard_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <dashboard display_value="Beautify Salon">8ac91f7093227110d2eff24efaba10ec</dashboard>
+        <name>Calendar View</name>
+        <order>1</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 14:51:22</sys_created_on>
+        <sys_id>024c9f3493227110d2eff24efaba1082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Calendar View</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_tab_024c9f3493227110d2eff24efaba1082</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 14:51:22</sys_updated_on>
+    </par_dashboard_tab>
+</record_update>

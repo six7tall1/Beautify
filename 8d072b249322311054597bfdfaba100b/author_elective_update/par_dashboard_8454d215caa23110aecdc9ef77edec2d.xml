@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard">
+    <par_dashboard action="DELETE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <experience/>
+        <grid>48</grid>
+        <name>Beautify Salon</name>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:53:55</sys_created_on>
+        <sys_id>8454d215caa23110aecdc9ef77edec2d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Beautify Salon</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_8454d215caa23110aecdc9ef77edec2d</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 23:16:19</sys_updated_on>
+        <sys_ux_app_config/>
+        <sys_ux_app_route/>
+        <sys_ux_macroponent/>
+        <sys_ux_screen/>
+        <sys_ux_screen_type/>
+    </par_dashboard>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>par_dashboard_8454d215caa23110aecdc9ef77edec2d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard"><par_dashboard action="INSERT_OR_UPDATE"><active>true</active><certified>false</certified><description/><experience/><grid>48</grid><name>Beautify Salon</name><sys_class_name>par_dashboard</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-15 22:53:55</sys_created_on><sys_id>8454d215caa23110aecdc9ef77edec2d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Beautify Salon</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>par_dashboard_8454d215caa23110aecdc9ef77edec2d</sys_update_name><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-15 23:16:19</sys_updated_on><sys_ux_app_config/><sys_ux_app_route/><sys_ux_macroponent/><sys_ux_screen/><sys_ux_screen_type/></par_dashboard></record_update>]]></payload>
+        <payload_hash>1730223163</payload_hash>
+        <record_name>Beautify Salon</record_name>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 23:16:20</sys_created_on>
+        <sys_id>e879da5993a23110d2eff24efaba1030</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bd54571a50000001</sys_recorded_at>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 23:16:20</sys_updated_on>
+        <type>PAR Dashboard</type>
+        <update_guid>e079da591da23110cf266da241ab8730</update_guid>
+        <update_guid_history>e079da591da23110cf266da241ab8730:1730223163,2079da59bea2311017346b6462b72c2f:-1706467941</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Beautify Salon">a7c9529993a23110d2eff24efaba10d6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 23:17:53</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard">par_dashboard</sys_db_object>
+        <sys_id>8b89e8e5867743e8a8c5c541e0483e40</sys_id>
+        <sys_metadata>8454d215caa23110aecdc9ef77edec2d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Beautify Salon</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>par_dashboard_8454d215caa23110aecdc9ef77edec2d</sys_update_name>
+        <sys_update_version display_value="par_dashboard_8454d215caa23110aecdc9ef77edec2d">e879da5993a23110d2eff24efaba1030</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 23:17:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

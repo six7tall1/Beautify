@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>b3bce7a8b5223110dff9a786d9e8f2b9</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>beautify</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 21:24:51</sys_created_on>
+        <sys_id>7fbce7a833223110ec9b6ef2bb1c33b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BEAUTIFY</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_ux_page_registry_7fbce7a833223110ec9b6ef2bb1c33b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-13 21:24:51</sys_updated_on>
+        <title>BEAUTIFY</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sys_ux_page_registry_7fbce7a833223110ec9b6ef2bb1c33b8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>b3bce7a8b5223110dff9a786d9e8f2b9</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>beautify</path><root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-13 21:24:51</sys_created_on><sys_id>7fbce7a833223110ec9b6ef2bb1c33b8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>BEAUTIFY</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sys_ux_page_registry_7fbce7a833223110ec9b6ef2bb1c33b8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-13 21:24:51</sys_updated_on><title>BEAUTIFY</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>758878746</payload_hash>
+        <record_name>BEAUTIFY</record_name>
+        <reverted_from/>
+        <source>695a1bff93333110d2eff24efaba1077</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 22:11:05</sys_created_on>
+        <sys_id>a557336493a23110d2eff24efaba10f7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>18bcabcfe360000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 01:43:08</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>6557336490a23110b7218656b527b1f7</update_guid>
+        <update_guid_history>6557336490a23110b7218656b527b1f7:758878746</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-14 13:24:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>98b3c473c38f4634a04a581ceb728c90</sys_id>
+        <sys_metadata>7fbce7a833223110ec9b6ef2bb1c33b8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BEAUTIFY</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_7fbce7a833223110ec9b6ef2bb1c33b8</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_7fbce7a833223110ec9b6ef2bb1c33b8">a557336493a23110d2eff24efaba10f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-14 13:24:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">5d59ac3893663110d2eff24efaba1059</canvas>
+        <component display_value="">259e0221ff18a75c5f5f0fb28fa5d32f</component>
+        <component_props>{"table":"x_1207268_beautify_beautify","reportSource":"","encodedQuery":"","startDateField":"appointment_date","endDateField":"serviced","eventDisplayFields":"number,first_name,last_name,service_requested","componentTitle":"Appointments","followFilters":true,"showFilterOverview":true,"showDescription":true,"componentDescription":"Calendar view","viewType":"WEEK","eventColor":""}</component_props>
+        <h>30</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 01:49:31</sys_created_on>
+        <sys_id>5559ac3893663110d2eff24efaba105e</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_widget_5559ac3893663110d2eff24efaba105e</sys_update_name>
+        <sys_updated_by>Poppin</sys_updated_by>
+        <sys_updated_on>2023-11-14 02:52:18</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>par_dashboard_widget_5559ac3893663110d2eff24efaba105e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">5d59ac3893663110d2eff24efaba1059</canvas><component display_value="">259e0221ff18a75c5f5f0fb28fa5d32f</component><component_props>{"table":"x_1207268_beautify_beautify","reportSource":"","encodedQuery":"","startDateField":"appointment_date","endDateField":"serviced","eventDisplayFields":"number,first_name,last_name,service_requested","componentTitle":"Appointments","followFilters":true,"showFilterOverview":true,"showDescription":true,"componentDescription":"Calendar view","viewType":"WEEK","eventColor":""}</component_props><h>30</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 01:49:31</sys_created_on><sys_id>5559ac3893663110d2eff24efaba105e</sys_id><sys_mod_count>6</sys_mod_count><sys_name/><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>par_dashboard_widget_5559ac3893663110d2eff24efaba105e</sys_update_name><sys_updated_by>Poppin</sys_updated_by><sys_updated_on>2023-11-14 02:52:18</sys_updated_on><visualization/><w>48</w><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>946100359</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Poppin</sys_created_by>
+        <sys_created_on>2023-11-14 02:52:18</sys_created_on>
+        <sys_id>78b73cf493a63110d2eff24efaba1090</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bcbbe731f0000001</sys_recorded_at>
+        <sys_updated_by>Poppin</sys_updated_by>
+        <sys_updated_on>2023-11-14 02:52:18</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>30b73cf4a3a6311096a589c12181dc90</update_guid>
+        <update_guid_history>30b73cf4a3a6311096a589c12181dc90:946100359,881430f0bda63110e315966aba3a3bfd:206917732,56633870cba6311035c137660beac173:-645237267,120374b052a63110f8280827eb6b67ad:-1398930786,90f13870fca631106c5f5e150804276b:-1834114519,49b96838c56631107407130fb4515ff1:-801264472,1559ac3813663110d5cc01d8ea5de15f:2053343088</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">0badb4bc93a63110d2eff24efaba10b7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 03:18:23</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>4c440214ed4c4b97a9491c635b52a5f9</sys_id>
+        <sys_metadata>5559ac3893663110d2eff24efaba105e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_5559ac3893663110d2eff24efaba105e</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_5559ac3893663110d2eff24efaba105e">78b73cf493a63110d2eff24efaba1090</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 03:18:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

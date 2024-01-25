@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">d4582cf493663110d2eff24efaba104a</canvas>
+        <component display_value="now-record-list-connected-snapshot">7219cee4e0177c3cf2e48d550ce0f71b</component>
+        <component_props>{"table":"x_1207268_beautify_beautify","fixedQuery":"","listTitle":"All Active Tasks","columns":"number,first_name,last_name,appointment_date,service_requested,appointment_status,serviced","maxColumns":12,"query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":"","limit":100}</component_props>
+        <h>32</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 01:46:37</sys_created_on>
+        <sys_id>bea8a03893663110d2eff24efaba10f9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_widget_bea8a03893663110d2eff24efaba10f9</sys_update_name>
+        <sys_updated_by>Poppin</sys_updated_by>
+        <sys_updated_on>2023-11-14 02:50:38</sys_updated_on>
+        <visualization/>
+        <w>46</w>
+        <x>2</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>par_dashboard_widget_bea8a03893663110d2eff24efaba10f9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">d4582cf493663110d2eff24efaba104a</canvas><component display_value="now-record-list-connected-snapshot">7219cee4e0177c3cf2e48d550ce0f71b</component><component_props>{"table":"x_1207268_beautify_beautify","fixedQuery":"","listTitle":"All Active Tasks","columns":"number,first_name,last_name,appointment_date,service_requested,appointment_status,serviced","maxColumns":12,"query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":"","limit":100}</component_props><h>32</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 01:46:37</sys_created_on><sys_id>bea8a03893663110d2eff24efaba10f9</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>par_dashboard_widget_bea8a03893663110d2eff24efaba10f9</sys_update_name><sys_updated_by>Poppin</sys_updated_by><sys_updated_on>2023-11-14 02:50:38</sys_updated_on><visualization/><w>46</w><x>2</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-649896414</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Poppin</sys_created_by>
+        <sys_created_on>2023-11-14 02:50:38</sys_created_on>
+        <sys_id>20573cb493a63110d2eff24efaba1082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bcbbcef650000001</sys_recorded_at>
+        <sys_updated_by>Poppin</sys_updated_by>
+        <sys_updated_on>2023-11-14 02:50:38</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>e0573cb444a631108d048d6398314181</update_guid>
+        <update_guid_history>e0573cb444a631108d048d6398314181:-649896414,d571703085a631101f9a535ed4bf3b53:1709125068,3ea8a038d9663110c05f69d2e20619fb:-1785907304</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">0fadb4bc93a63110d2eff24efaba10c0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 03:18:23</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>2e7c983d067447479392ab6e073f23b9</sys_id>
+        <sys_metadata>bea8a03893663110d2eff24efaba10f9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_bea8a03893663110d2eff24efaba10f9</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_bea8a03893663110d2eff24efaba10f9">20573cb493a63110d2eff24efaba1082</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 03:18:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

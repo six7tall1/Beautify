@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Beautify Appoinment Information" section_id="2d54161593a23110d2eff24efaba10bf" sys_domain="global" table="x_1207268_beautify_beautify" version="3" view="Workspace-x_1207268_beautify-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-15 22:54:00</sys_created_on>
+            <sys_id>e554161593a23110d2eff24efaba10c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="4c54d2156ea23110ebfa50214aeaca2a">2d54161593a23110d2eff24efaba10bf</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-15 22:54:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-15 22:54:00</sys_created_on>
+            <sys_id>2154161593a23110d2eff24efaba10c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="4c54d2156ea23110ebfa50214aeaca2a">2d54161593a23110d2eff24efaba10bf</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-15 22:54:00</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>appointment_date</element>
+            <position>2</position>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-15 22:54:00</sys_created_on>
+            <sys_id>6954161593a23110d2eff24efaba10c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Beautify Appoinment Information" display_value="Beautify Appoinment Information" name="x_1207268_beautify_beautify" sys_domain="global" view="4c54d2156ea23110ebfa50214aeaca2a">2d54161593a23110d2eff24efaba10bf</sys_ui_section>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-15 22:54:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Beautify Appoinment Information</caption>
+            <header>false</header>
+            <name>x_1207268_beautify_beautify</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>gilpares</sys_created_by>
+            <sys_created_on>2023-11-15 22:54:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d54161593a23110d2eff24efaba10bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1207268_beautify_beautify</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+            <sys_update_name>sys_ui_section_2d54161593a23110d2eff24efaba10bf</sys_update_name>
+            <sys_updated_by>gilpares</sys_updated_by>
+            <sys_updated_on>2023-11-15 22:54:00</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace-x 1207268 beautify-0" name="Workspace-x_1207268_beautify-0">4c54d2156ea23110ebfa50214aeaca2a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Beautify Salon - List View">bd666b3093627110d2eff24efaba1059</legacy_page>
+        <name>PA Beautify Salon - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 15:35:35</sys_created_on>
+        <sys_id>f1666b3093627110d2eff24efaba105b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Beautify Salon - New Tab</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_grid_canvas_f1666b3093627110d2eff24efaba105b</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 15:35:35</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

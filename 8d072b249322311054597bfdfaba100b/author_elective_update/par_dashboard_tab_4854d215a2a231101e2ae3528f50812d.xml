@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_tab">
+    <par_dashboard_tab action="DELETE">
+        <active>true</active>
+        <dashboard display_value="">8454d215caa23110aecdc9ef77edec2d</dashboard>
+        <name>Tab</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:53:56</sys_created_on>
+        <sys_id>4854d215a2a231101e2ae3528f50812d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_tab_4854d215a2a231101e2ae3528f50812d</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 22:53:56</sys_updated_on>
+    </par_dashboard_tab>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>par_dashboard_tab_4854d215a2a231101e2ae3528f50812d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_tab"><par_dashboard_tab action="INSERT_OR_UPDATE"><active>true</active><dashboard display_value="">8454d215caa23110aecdc9ef77edec2d</dashboard><name>Tab</name><order>0</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-15 22:53:56</sys_created_on><sys_id>4854d215a2a231101e2ae3528f50812d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tab</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>par_dashboard_tab_4854d215a2a231101e2ae3528f50812d</sys_update_name><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-15 22:53:56</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+        <payload_hash>844366228</payload_hash>
+        <record_name>Tab</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 23:17:53</sys_created_on>
+        <sys_id>2fc9529993a23110d2eff24efaba10d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bd546deeb0000001</sys_recorded_at>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 23:17:53</sys_updated_on>
+        <type>PAR Dashboard Tab</type>
+        <update_guid>ebc95299b2a231100a838b41c16e2ad1</update_guid>
+        <update_guid_history>ebc95299b2a231100a838b41c16e2ad1:844366228</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Tab">e7c9529993a23110d2eff24efaba10d3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 23:17:53</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_tab">par_dashboard_tab</sys_db_object>
+        <sys_id>35129729439b4d74a26472a951d89610</sys_id>
+        <sys_metadata>4854d215a2a231101e2ae3528f50812d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>par_dashboard_tab_4854d215a2a231101e2ae3528f50812d</sys_update_name>
+        <sys_update_version display_value="par_dashboard_tab_4854d215a2a231101e2ae3528f50812d">2fc9529993a23110d2eff24efaba10d1</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 23:17:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

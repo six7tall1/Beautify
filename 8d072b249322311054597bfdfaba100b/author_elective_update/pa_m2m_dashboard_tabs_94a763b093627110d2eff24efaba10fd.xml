@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="Beautify Salon">3716273093627110d2eff24efaba1082</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>3</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 15:40:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>94a763b093627110d2eff24efaba10fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3716273093627110d2eff24efaba1082</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_94a763b093627110d2eff24efaba10fd</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 15:40:56</sys_updated_on>
+        <tab display_value="Beautify Salon - New Tab 3">dca763b093627110d2eff24efaba10fa</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>pa_m2m_dashboard_tabs_94a763b093627110d2eff24efaba10fd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="Beautify Salon">3716273093627110d2eff24efaba1082</dashboard><home>false</home><homepage/><order>3</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 15:40:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>94a763b093627110d2eff24efaba10fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>3716273093627110d2eff24efaba1082</sys_name><sys_overrides/><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_94a763b093627110d2eff24efaba10fd</sys_update_name><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 15:40:56</sys_updated_on><tab display_value="Beautify Salon - New Tab 3">dca763b093627110d2eff24efaba10fa</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>-2102478070</payload_hash>
+        <record_name>3716273093627110d2eff24efaba1082</record_name>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 15:40:56</sys_created_on>
+        <sys_id>94a763b093627110d2eff24efaba10ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bce7e29cb0000001</sys_recorded_at>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 15:40:56</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>d8a763b0a9627110c06057cc3d296efe</update_guid>
+        <update_guid_history>d8a763b0a9627110c06057cc3d296efe:-2102478070</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Beautify Salon">48686f7093627110d2eff24efaba1059</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 15:44:12</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>bf507129f40444369ff04d92afcd4764</sys_id>
+        <sys_metadata>94a763b093627110d2eff24efaba10fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3716273093627110d2eff24efaba1082</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent display_value="Beautify Salon">3716273093627110d2eff24efaba1082</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_94a763b093627110d2eff24efaba10fd</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_94a763b093627110d2eff24efaba10fd">94a763b093627110d2eff24efaba10ff</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 15:44:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

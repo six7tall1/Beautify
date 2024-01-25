@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Child Cut">9793438193b6b110d2eff24efaba107e</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>LaSalle</sys_created_by>
+        <sys_created_on>2023-11-27 18:10:56</sys_created_on>
+        <sys_id>58a6434593b6b110d2eff24efaba1098</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Service Catalog.Child Cut</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_58a6434593b6b110d2eff24efaba1098</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-27 18:11:02</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sc_cat_item_catalog_58a6434593b6b110d2eff24efaba1098</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="DELETE"><sc_cat_item display_value="Child Cut">9793438193b6b110d2eff24efaba107e</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>LaSalle</sys_created_by><sys_created_on>2023-11-27 18:10:56</sys_created_on><sys_id>58a6434593b6b110d2eff24efaba1098</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Service Catalog.Child Cut</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sc_cat_item_catalog_58a6434593b6b110d2eff24efaba1098</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-27 18:11:02</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-158820294</payload_hash>
+        <record_name>Service Catalog.Child Cut</record_name>
+        <reverted_from/>
+        <source>5ac9070993b6b110d2eff24efaba1074</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-27 18:24:44</sys_created_on>
+        <sys_id>92c9470993b6b110d2eff24efaba101b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c1206cbb30000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-27 18:24:44</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>16c947093cb6b11099a754a89e665f1a</update_guid>
+        <update_guid_history>16c947093cb6b11099a754a89e665f1a:-158820294,e9a683456cb6b110a9238ee883ef6696:-454729402</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Child Cut">d6c9470993b6b110d2eff24efaba101e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-27 18:24:44</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>a89ac497c39f4548973850063fda0840</sys_id>
+        <sys_metadata>58a6434593b6b110d2eff24efaba1098</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Child Cut</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent display_value="Child Cut">9793438193b6b110d2eff24efaba107e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_58a6434593b6b110d2eff24efaba1098</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_58a6434593b6b110d2eff24efaba1098">92c9470993b6b110d2eff24efaba101b</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-27 18:24:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

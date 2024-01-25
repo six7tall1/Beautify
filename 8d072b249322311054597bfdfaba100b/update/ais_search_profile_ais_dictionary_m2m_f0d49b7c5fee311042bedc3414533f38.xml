@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_stop_word_dictionary">9865058bc7031010d1cfd9795cc26037</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="beautify-salon Search Profile">7cd49b7c87ee3110972b7d0ef8f58a38</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 14:18:48</sys_created_on>
+        <sys_id>f0d49b7c5fee311042bedc3414533f38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_stop_word_dictionary.beautify-salon Search Profile</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_f0d49b7c5fee311042bedc3414533f38</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 14:18:48</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

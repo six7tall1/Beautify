@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="Beautify Salon">8ac91f7093227110d2eff24efaba10ec</dashboard>
+        <dashboard_tab display_value="Calendar View">024c9f3493227110d2eff24efaba1082</dashboard_tab>
+        <layout>[{"sys_id":"824cdb7493227110d2eff24efaba10cc","x":0,"y":0,"w":48,"h":47,"component_id":"259e0221ff18a75c5f5f0fb28fa5d32f","component_props":"{\"table\":\"x_1207268_beautify_beautify\",\"reportSource\":\"\",\"encodedQuery\":\"\",\"startDateField\":\"appointment_date\",\"endDateField\":\"serviced\",\"eventDisplayFields\":\"number,first_name,last_name,service_requested,appointment_status\",\"componentTitle\":\"\",\"followFilters\":false,\"showFilterOverview\":false,\"showDescription\":true,\"componentDescription\":\"\",\"viewType\":\"MONTH\",\"eventColor\":\"\"}","can_edit":true}]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 14:51:22</sys_created_on>
+        <sys_id>c24c9f3493227110d2eff24efaba1084</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_canvas_c24c9f3493227110d2eff24efaba1084</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 21:40:14</sys_updated_on>
+    </par_dashboard_canvas>
+</record_update>

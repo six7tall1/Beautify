@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_1207268_beautify_beautify</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 21:03:14</sys_created_on>
+        <sys_id>6fc7a7649322311054597bfdfaba1006</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1207268_beautify_beautify</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_security_acl_6fc7a7649322311054597bfdfaba1006</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-13 21:03:14</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sys_security_acl_6fc7a7649322311054597bfdfaba1006</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_1207268_beautify_beautify</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-13 21:03:14</sys_created_on><sys_id>6fc7a7649322311054597bfdfaba1006</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1207268_beautify_beautify</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sys_security_acl_6fc7a7649322311054597bfdfaba1006</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-13 21:03:14</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-911825409</payload_hash>
+        <record_name>x_1207268_beautify_beautify</record_name>
+        <reverted_from/>
+        <source>695a1bff93333110d2eff24efaba1077</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 22:11:01</sys_created_on>
+        <sys_id>2c57bf2493a23110d2eff24efaba10f7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>18bcabcf04c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 01:43:10</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>e3c7a764522231101de7a49fffb1f008</update_guid>
+        <update_guid_history>e3c7a764522231101de7a49fffb1f008:-911825409</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 21:54:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>a1620c9c2d2a46b49053bf5120708f99</sys_id>
+        <sys_metadata>6fc7a7649322311054597bfdfaba1006</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1207268_beautify_beautify</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent display_value="x_1207268_beautify_beautify">eac727649322311054597bfdfaba10cf</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sys_security_acl_6fc7a7649322311054597bfdfaba1006</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_6fc7a7649322311054597bfdfaba1006">2c57bf2493a23110d2eff24efaba10f7</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 21:54:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_tab">
+    <par_dashboard_tab action="DELETE">
+        <active>true</active>
+        <dashboard display_value="BEAUTIFY SALON WORKSPACE">33bce7a8d12231103b6dde045552ddb1</dashboard>
+        <name>Appointment Calendar</name>
+        <order>1</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 22:27:30</sys_created_on>
+        <sys_id>0e1bbfe493a23110d2eff24efaba1088</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Appointment Calendar</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_tab_0e1bbfe493a23110d2eff24efaba1088</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-13 22:29:34</sys_updated_on>
+    </par_dashboard_tab>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>par_dashboard_tab_0e1bbfe493a23110d2eff24efaba1088</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_tab"><par_dashboard_tab action="INSERT_OR_UPDATE"><active>true</active><dashboard display_value="BEAUTIFY SALON WORKSPACE">33bce7a8d12231103b6dde045552ddb1</dashboard><name>Appointment Calendar</name><order>1</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-13 22:27:30</sys_created_on><sys_id>0e1bbfe493a23110d2eff24efaba1088</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Appointment Calendar</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>par_dashboard_tab_0e1bbfe493a23110d2eff24efaba1088</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-13 22:29:34</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+        <payload_hash>1437944486</payload_hash>
+        <record_name>Appointment Calendar</record_name>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 22:29:34</sys_created_on>
+        <sys_id>109b736893a23110d2eff24efaba1048</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bcacdeaab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-13 22:29:34</sys_updated_on>
+        <type>PAR Dashboard Tab</type>
+        <update_guid>189b7368fca231102e4d0d00c5a31547</update_guid>
+        <update_guid_history>189b7368fca231102e4d0d00c5a31547:1437944486,ce1bbfe4aaa23110dfab32d2e2fc4389:145162598</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Appointment Calendar">6f175c7493263110d2eff24efaba1015</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 00:29:57</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_tab">par_dashboard_tab</sys_db_object>
+        <sys_id>1312879878dc45ed915ee0935759eb99</sys_id>
+        <sys_metadata>0e1bbfe493a23110d2eff24efaba1088</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Appointment Calendar</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>par_dashboard_tab_0e1bbfe493a23110d2eff24efaba1088</sys_update_name>
+        <sys_update_version display_value="par_dashboard_tab_0e1bbfe493a23110d2eff24efaba1088">109b736893a23110d2eff24efaba1048</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 00:29:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>true</click_in_mode>
+        <context_config_id display_value="BEAUTIFY SALON - Workspace Search">74d49b7cf1ee31106a5db2f0a276df30</context_config_id>
+        <limit>5</limit>
+        <order>100</order>
+        <section_header>Recent searches</section_header>
+        <suggestion_type>Recent Search Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 14:18:47</sys_created_on>
+        <sys_id>70d49b7ce5ee311044c6b27b6f3a6534</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recent Search Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_70d49b7ce5ee311044c6b27b6f3a6534</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 14:18:47</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

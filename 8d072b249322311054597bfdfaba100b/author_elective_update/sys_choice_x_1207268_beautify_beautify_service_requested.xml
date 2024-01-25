@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="service_requested" table="x_1207268_beautify_beautify" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>service_requested</element>
+            <name>x_1207268_beautify_beautify</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-13 21:13:06</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>service_requested</sys_name>
+            <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+            <sys_update_name>sys_choice_x_1207268_beautify_beautify_service_requested</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-13 21:13:06</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adult Cut</label>
+            <language>en</language>
+            <name>x_1207268_beautify_beautify</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-13 21:20:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-13 21:20:30</sys_updated_on>
+            <value>adult_cut</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_requested</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Blowout</label>
+            <language>en</language>
+            <name>x_1207268_beautify_beautify</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-13 21:13:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-16 22:09:05</sys_updated_on>
+            <value>blowout</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Child Cut</label>
+            <language>en</language>
+            <name>x_1207268_beautify_beautify</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-13 21:13:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-13 21:13:06</sys_updated_on>
+            <value>child_cut</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BlowOut</label>
+            <language>en</language>
+            <name>x_1207268_beautify_beautify</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-16 19:36:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-16 19:36:27</sys_updated_on>
+            <value>BlowOut</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Eye Brow Wax</label>
+            <language>en</language>
+            <name>x_1207268_beautify_beautify</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-13 21:13:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-13 21:13:06</sys_updated_on>
+            <value>eye_brow_wax</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_requested</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adult Cut  long hair (10 inches plus)</label>
+            <language>en</language>
+            <name>x_1207268_beautify_beautify</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-13 21:13:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-13 21:13:06</sys_updated_on>
+            <value>adult_cut_long_hair_10_inches_plus</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

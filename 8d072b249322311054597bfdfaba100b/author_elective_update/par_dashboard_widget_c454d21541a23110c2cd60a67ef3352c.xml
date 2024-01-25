@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">cc54d215c3a2311058e0d6a62376302d</canvas>
+        <component display_value="now-record-list-connected-snapshot">7219cee4e0177c3cf2e48d550ce0f71b</component>
+        <component_props>{"listTitle":"Appointments List View","table":"x_1207268_beautify_beautify","query":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","columns":"number,appointment_date,first_name,last_name,email,phone_number,service_requested,appointment_status,serviced","groupByField":"","limit":100,"maxColumns":12,"page":1,"highlightedValueConfigId":"","hideHighlightedValues":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideRefreshButton":false,"hideLastRefreshedText":false,"hideColumnResizing":true,"hideColumnGrouping":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hidePersonalization":true,"hideColumnReorder":true,"hideDotwalk":true,"hideInlineEditing":true,"hideHighlightContent":false,"highlightContent":"{ \"patterns\": [], \"color\" : \"\" }","hideLinks":false,"hideViewAll":false,"hideCellFilter":true,"hideCheckboxHover":true,"hideFilterPanel":false,"hideFirstPage":false,"hideLastPage":false,"hideLimitSelector":false,"hideMenuButton":true,"hideMultiEdit":false,"hideDeclarativeActions":false,"hideNextPage":false,"hidePages":false,"hidePagination":true,"hidePanel":true,"hidePanelAdvanced":false,"hidePanelConditionDelete":false,"hidePanelFooter":false,"hidePanelRestore":false,"hidePreviousPage":false,"hideQuickEdit":true,"hideRange":false,"hideRowCount":false,"hideRowSelector":false,"hideSelectAll":true,"hideEmptyStateImage":false,"hideDBViews":false,"hideUnnecessaryRowSelectors":true,"overrideWordWrapUserPref":false,"wordWrap":false,"maxCharLimit":4000,"refreshRequested":"","recordSelectedTable":"","recordSelectedSysId":"","recordSelectedQuery":"","recordSelectedView":"","fixedQuery":""}</component_props>
+        <h>41</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 22:53:56</sys_created_on>
+        <sys_id>c454d21541a23110c2cd60a67ef3352c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_widget_c454d21541a23110c2cd60a67ef3352c</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 23:01:05</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>par_dashboard_widget_c454d21541a23110c2cd60a67ef3352c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">cc54d215c3a2311058e0d6a62376302d</canvas><component display_value="now-record-list-connected-snapshot">7219cee4e0177c3cf2e48d550ce0f71b</component><component_props>{"listTitle":"Appointments List View","table":"x_1207268_beautify_beautify","query":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","columns":"number,appointment_date,first_name,last_name,email,phone_number,service_requested,appointment_status,serviced","groupByField":"","limit":100,"maxColumns":12,"page":1,"highlightedValueConfigId":"","hideHighlightedValues":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideRefreshButton":false,"hideLastRefreshedText":false,"hideColumnResizing":true,"hideColumnGrouping":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hidePersonalization":true,"hideColumnReorder":true,"hideDotwalk":true,"hideInlineEditing":true,"hideHighlightContent":false,"highlightContent":"{ \"patterns\": [], \"color\" : \"\" }","hideLinks":false,"hideViewAll":false,"hideCellFilter":true,"hideCheckboxHover":true,"hideFilterPanel":false,"hideFirstPage":false,"hideLastPage":false,"hideLimitSelector":false,"hideMenuButton":true,"hideMultiEdit":false,"hideDeclarativeActions":false,"hideNextPage":false,"hidePages":false,"hidePagination":true,"hidePanel":true,"hidePanelAdvanced":false,"hidePanelConditionDelete":false,"hidePanelFooter":false,"hidePanelRestore":false,"hidePreviousPage":false,"hideQuickEdit":true,"hideRange":false,"hideRowCount":false,"hideRowSelector":false,"hideSelectAll":true,"hideEmptyStateImage":false,"hideDBViews":false,"hideUnnecessaryRowSelectors":true,"overrideWordWrapUserPref":false,"wordWrap":false,"maxCharLimit":4000,"refreshRequested":"","recordSelectedTable":"","recordSelectedSysId":"","recordSelectedQuery":"","recordSelectedView":"","fixedQuery":""}</component_props><h>41</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-15 22:53:56</sys_created_on><sys_id>c454d21541a23110c2cd60a67ef3352c</sys_id><sys_mod_count>3</sys_mod_count><sys_name/><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>par_dashboard_widget_c454d21541a23110c2cd60a67ef3352c</sys_update_name><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-15 23:01:05</sys_updated_on><visualization/><w>48</w><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1070110557</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 23:01:05</sys_created_on>
+        <sys_id>11f5965593a23110d2eff24efaba108a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bd5377e230000001</sys_recorded_at>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 23:01:05</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>19f596551aa231106e19d667d7566f89</update_guid>
+        <update_guid_history>19f596551aa231106e19d667d7566f89:-1070110557,a9b5125593a23110a00e7f374191b50a:1444419219,c9541615c2a23110b54801534176e40a:610074866,0954161592a231101d12e6d2881a0d09:-58953206</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">2479da5993a23110d2eff24efaba10f0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-15 23:16:20</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>0d7855234ef94bc084be504704fb9640</sys_id>
+        <sys_metadata>c454d21541a23110c2cd60a67ef3352c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_c454d21541a23110c2cd60a67ef3352c</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_c454d21541a23110c2cd60a67ef3352c">11f5965593a23110d2eff24efaba108a</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-15 23:16:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

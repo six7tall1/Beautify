@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.polaris.theme.custom</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>LaSalle</sys_created_by>
+        <sys_created_on>2023-11-27 00:43:34</sys_created_on>
+        <sys_id>46e69ff893f67110d2eff24efaba1063</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>glide.ui.polaris.theme.custom</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_properties_46e69ff893f67110d2eff24efaba1063</sys_update_name>
+        <sys_updated_by>LaSalle</sys_updated_by>
+        <sys_updated_on>2023-11-28 01:02:14</sys_updated_on>
+        <type>string</type>
+        <value>a4f2e05d93fab110d2eff24efaba10bf</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=46e69ff893f67110d2eff24efaba1063"/>
+</record_update>

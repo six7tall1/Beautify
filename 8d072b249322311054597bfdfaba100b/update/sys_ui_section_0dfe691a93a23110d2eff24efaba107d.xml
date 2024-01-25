@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="x_1207268_beautify_beautify" section_id="0dfe691a93a23110d2eff24efaba107d" sys_domain="global" table="x_1207268_beautify_beautify" version="3" view="ESC">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>x_1207268_beautify_beautify</caption>
+            <header>false</header>
+            <name>x_1207268_beautify_beautify</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>LaSalle</sys_created_by>
+            <sys_created_on>2023-11-18 22:44:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0dfe691a93a23110d2eff24efaba107d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1207268_beautify_beautify</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+            <sys_update_name>sys_ui_section_0dfe691a93a23110d2eff24efaba107d</sys_update_name>
+            <sys_updated_by>LaSalle</sys_updated_by>
+            <sys_updated_on>2023-11-18 22:44:36</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="ESC" name="ESC">41fe691a93a23110d2eff24efaba1079</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

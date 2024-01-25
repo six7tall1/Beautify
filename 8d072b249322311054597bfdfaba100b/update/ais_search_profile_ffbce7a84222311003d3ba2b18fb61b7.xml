@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for BEAUTIFY</description>
+        <genius_result_assembly/>
+        <label>beautify Search Profile</label>
+        <name>x_1207268_beautify_nsmehtne_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 21:24:50</sys_created_on>
+        <sys_id>ffbce7a84222311003d3ba2b18fb61b7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>beautify Search Profile</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>ais_search_profile_ffbce7a84222311003d3ba2b18fb61b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-13 21:24:58</sys_updated_on>
+    </ais_search_profile>
+</record_update>

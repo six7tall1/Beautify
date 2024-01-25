@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Eyebrow Wax">6be6f6c19376b110d2eff24efaba109e</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-28 21:27:27</sys_created_on>
+        <sys_id>a43db86993723110d2eff24efaba1085</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Eyebrow Wax.Any User</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_a43db86993723110d2eff24efaba1085</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-28 21:28:12</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_a43db86993723110d2eff24efaba1085</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Eyebrow Wax">6be6f6c19376b110d2eff24efaba109e</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-28 21:27:27</sys_created_on><sys_id>a43db86993723110d2eff24efaba1085</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Eyebrow Wax.Any User</sys_name><sys_package/><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_a43db86993723110d2eff24efaba1085</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-28 21:28:12</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-367012728</payload_hash>
+        <record_name>Eyebrow Wax.Any User</record_name>
+        <reverted_from/>
+        <source>535d7c6993723110d2eff24efaba10ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-28 21:28:12</sys_created_on>
+        <sys_id>235dfc6993723110d2eff24efaba1009</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c17d5211c0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-28 21:28:12</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>675dfc6938723110374c6cf50a9c5508</update_guid>
+        <update_guid_history>675dfc6938723110374c6cf50a9c5508:-367012728,ab5dfc690f72311076b2806a82698706:-811385163</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Eyebrow Wax.Any User">ad3efca993723110d2eff24efaba1052</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-28 21:31:54</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>6c091563320c493d975809a3f559d361</sys_id>
+        <sys_metadata>a43db86993723110d2eff24efaba1085</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Eyebrow Wax.Any User</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_a43db86993723110d2eff24efaba1085</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_a43db86993723110d2eff24efaba1085">235dfc6993723110d2eff24efaba1009</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-28 21:31:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

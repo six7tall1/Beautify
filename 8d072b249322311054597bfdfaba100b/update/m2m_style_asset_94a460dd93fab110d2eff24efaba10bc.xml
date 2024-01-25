@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_style_asset">
+    <m2m_style_asset action="INSERT_OR_UPDATE">
+        <asset display_value="Picture38-2">8ca4ac5d93fab110d2eff24efaba10b6</asset>
+        <properties>{
+  "position": "header_logo"
+}</properties>
+        <style display_value="Imagery">b4f2e05d93fab110d2eff24efaba10c7</style>
+        <sys_class_name>m2m_style_asset</sys_class_name>
+        <sys_created_by>LaSalle</sys_created_by>
+        <sys_created_on>2023-11-28 01:01:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>94a460dd93fab110d2eff24efaba10bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>m2m_style_asset_94a460dd93fab110d2eff24efaba10bc</sys_update_name>
+        <sys_updated_by>LaSalle</sys_updated_by>
+        <sys_updated_on>2023-11-28 01:01:38</sys_updated_on>
+    </m2m_style_asset>
+</record_update>

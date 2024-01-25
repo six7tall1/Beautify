@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">7bbce7a8d72231107934e45eb932bbb1</canvas>
+        <component display_value="now-record-list-connected-snapshot">7219cee4e0177c3cf2e48d550ce0f71b</component>
+        <component_props>{"listTitle":"APPOINTMENT LIST","table":"x_1207268_beautify_beautify","query":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","columns":"first_name,last_name,appointment_date,service_requested,appointment_status,serviced","groupByField":"","limit":10,"maxColumns":8,"page":1,"highlightedValueConfigId":"","hideHighlightedValues":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideRefreshButton":false,"hideLastRefreshedText":false,"hideColumnResizing":true,"hideColumnGrouping":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hidePersonalization":true,"hideColumnReorder":true,"hideDotwalk":true,"hideInlineEditing":true,"hideHighlightContent":false,"highlightContent":"{ \"patterns\": [], \"color\" : \"\" }","hideLinks":false,"hideViewAll":false,"hideCellFilter":true,"hideCheckboxHover":true,"hideFilterPanel":false,"hideFirstPage":false,"hideLastPage":false,"hideLimitSelector":false,"hideMenuButton":true,"hideMultiEdit":false,"hideDeclarativeActions":false,"hideNextPage":false,"hidePages":false,"hidePagination":true,"hidePanel":true,"hidePanelAdvanced":false,"hidePanelConditionDelete":false,"hidePanelFooter":false,"hidePanelRestore":false,"hidePreviousPage":false,"hideQuickEdit":true,"hideRange":false,"hideRowCount":false,"hideRowSelector":false,"hideSelectAll":true,"hideEmptyStateImage":false,"hideDBViews":false,"hideUnnecessaryRowSelectors":true,"overrideWordWrapUserPref":false,"wordWrap":false,"maxCharLimit":4000,"refreshRequested":"","recordSelectedTable":"","recordSelectedSysId":"","recordSelectedQuery":"","recordSelectedView":"","fixedQuery":""}</component_props>
+        <h>18</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 21:24:51</sys_created_on>
+        <sys_id>73bce7a839223110bfc3e50c4dd97bb0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_widget_73bce7a839223110bfc3e50c4dd97bb0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-13 22:22:08</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <x>0</x>
+        <y>12</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>par_dashboard_widget_73bce7a839223110bfc3e50c4dd97bb0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">7bbce7a8d72231107934e45eb932bbb1</canvas><component display_value="now-record-list-connected-snapshot">7219cee4e0177c3cf2e48d550ce0f71b</component><component_props>{"listTitle":"APPOINTMENT LIST","table":"x_1207268_beautify_beautify","query":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","columns":"first_name,last_name,appointment_date,service_requested,appointment_status,serviced","groupByField":"","limit":10,"maxColumns":8,"page":1,"highlightedValueConfigId":"","hideHighlightedValues":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideRefreshButton":false,"hideLastRefreshedText":false,"hideColumnResizing":true,"hideColumnGrouping":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hidePersonalization":true,"hideColumnReorder":true,"hideDotwalk":true,"hideInlineEditing":true,"hideHighlightContent":false,"highlightContent":"{ \"patterns\": [], \"color\" : \"\" }","hideLinks":false,"hideViewAll":false,"hideCellFilter":true,"hideCheckboxHover":true,"hideFilterPanel":false,"hideFirstPage":false,"hideLastPage":false,"hideLimitSelector":false,"hideMenuButton":true,"hideMultiEdit":false,"hideDeclarativeActions":false,"hideNextPage":false,"hidePages":false,"hidePagination":true,"hidePanel":true,"hidePanelAdvanced":false,"hidePanelConditionDelete":false,"hidePanelFooter":false,"hidePanelRestore":false,"hidePreviousPage":false,"hideQuickEdit":true,"hideRange":false,"hideRowCount":false,"hideRowSelector":false,"hideSelectAll":true,"hideEmptyStateImage":false,"hideDBViews":false,"hideUnnecessaryRowSelectors":true,"overrideWordWrapUserPref":false,"wordWrap":false,"maxCharLimit":4000,"refreshRequested":"","recordSelectedTable":"","recordSelectedSysId":"","recordSelectedQuery":"","recordSelectedView":"","fixedQuery":""}</component_props><h>18</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-13 21:24:51</sys_created_on><sys_id>73bce7a839223110bfc3e50c4dd97bb0</sys_id><sys_mod_count>3</sys_mod_count><sys_name/><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>par_dashboard_widget_73bce7a839223110bfc3e50c4dd97bb0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-13 22:22:08</sys_updated_on><visualization/><w>48</w><x>0</x><y>12</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1962555097</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 22:22:08</sys_created_on>
+        <sys_id>9bd9b3e493a23110d2eff24efaba1037</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bcac71cc20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-13 22:22:08</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>53d9b3e411a23110ea2a7f92f3a96937</update_guid>
+        <update_guid_history>53d9b3e411a23110ea2a7f92f3a96937:1962555097,5e39b3e4b8a23110a65eaf0bd66aa92b:383004821,78cc2ba8fc2231103ae6924cd35f33ad:1053846617,b4cc2ba8cd22311023d1f01e02f1feac:565579395</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">909bb76893a23110d2eff24efaba1074</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 22:29:34</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>3770b6c3a323468e8c2a00bed390e611</sys_id>
+        <sys_metadata>73bce7a839223110bfc3e50c4dd97bb0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_73bce7a839223110bfc3e50c4dd97bb0</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_73bce7a839223110bfc3e50c4dd97bb0">9bd9b3e493a23110d2eff24efaba1037</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-13 22:29:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

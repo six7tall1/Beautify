@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_asset">
+    <sys_ux_theme_asset action="INSERT_OR_UPDATE">
+        <category>image</category>
+        <name>Picture38-2</name>
+        <sys_class_name>sys_ux_theme_asset</sys_class_name>
+        <sys_created_by>LaSalle</sys_created_by>
+        <sys_created_on>2023-11-28 01:01:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8ca4ac5d93fab110d2eff24efaba10b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Picture38-2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sys_ux_theme_asset_8ca4ac5d93fab110d2eff24efaba10b6</sys_update_name>
+        <sys_updated_by>LaSalle</sys_updated_by>
+        <sys_updated_on>2023-11-28 01:01:37</sys_updated_on>
+    </sys_ux_theme_asset>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>Picture38-2.png</file_name>
+        <hash>97151c2d34c91667b2a92422e54f0169ac4926fd283141abe0b683c0b9cba15c</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3072</size_bytes>
+        <size_compressed>3095</size_compressed>
+        <state>available</state>
+        <sys_created_by>LaSalle</sys_created_by>
+        <sys_created_on>2023-11-28 01:01:37</sys_created_on>
+        <sys_id>8ca460dd93fab110d2eff24efaba10b8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-28 01:01:38</sys_updated_on>
+        <table_name>sys_ux_theme_asset</table_name>
+        <table_sys_id>8ca4ac5d93fab110d2eff24efaba10b6</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="Picture38-2.png" sys_id="8ca460dd93fab110d2eff24efaba10b8">8ca460dd93fab110d2eff24efaba10b8</sys_attachment>
+        <sys_created_by>LaSalle</sys_created_by>
+        <sys_created_on>2023-11-28 01:01:37</sys_created_on>
+        <sys_id>cca460dd93fab110d2eff24efaba10b8</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4116</length>
+        <position>1</position>
+        <sys_attachment display_value="Picture38-2.png" sys_id="8ca460dd93fab110d2eff24efaba10b8">8ca460dd93fab110d2eff24efaba10b8</sys_attachment>
+        <sys_created_by>LaSalle</sys_created_by>
+        <sys_created_on>2023-11-28 01:01:37</sys_created_on>
+        <sys_id>40a460dd93fab110d2eff24efaba10b9</sys_id>
+    </sys_attachment_doc>
+</record_update>

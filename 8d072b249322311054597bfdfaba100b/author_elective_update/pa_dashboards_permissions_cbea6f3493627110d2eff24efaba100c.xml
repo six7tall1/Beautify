@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="DELETE">
+        <dashboard display_value="Beautify Salon">3716273093627110d2eff24efaba1082</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>x_1207268_beautify.Employee</identity>
+        <read>true</read>
+        <role display_value="x_1207268_beautify.Employee" name="x_1207268_beautify.Employee">4527ab249322311054597bfdfaba10f0</role>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 15:55:20</sys_created_on>
+        <sys_id>cbea6f3493627110d2eff24efaba100c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1207268_beautify.Employee</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_cbea6f3493627110d2eff24efaba100c</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 15:55:20</sys_updated_on>
+        <type>1</type>
+        <user/>
+        <write>true</write>
+    </pa_dashboards_permissions>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>pa_dashboards_permissions_cbea6f3493627110d2eff24efaba100c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions"><pa_dashboards_permissions action="INSERT_OR_UPDATE"><dashboard display_value="Beautify Salon">3716273093627110d2eff24efaba1082</dashboard><delete>false</delete><group/><identity>x_1207268_beautify.Employee</identity><read>true</read><role display_value="x_1207268_beautify.Employee" name="x_1207268_beautify.Employee">4527ab249322311054597bfdfaba10f0</role><sys_class_name>pa_dashboards_permissions</sys_class_name><sys_created_by>gilpares</sys_created_by><sys_created_on>2023-11-14 15:55:20</sys_created_on><sys_id>cbea6f3493627110d2eff24efaba100c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1207268_beautify.Employee</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>pa_dashboards_permissions_cbea6f3493627110d2eff24efaba100c</sys_update_name><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 15:55:20</sys_updated_on><type>1</type><user/><write>true</write></pa_dashboards_permissions></record_update>]]></payload>
+        <payload_hash>-868876768</payload_hash>
+        <record_name>x_1207268_beautify.Employee</record_name>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 15:55:20</sys_created_on>
+        <sys_id>4fea6f3493627110d2eff24efaba100e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bce8b56bc0000001</sys_recorded_at>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 15:55:20</sys_updated_on>
+        <type>Dashboard Permissions</type>
+        <update_guid>83ea6f34ef627110e21f92d1bab79a0e</update_guid>
+        <update_guid_history>83ea6f34ef627110e21f92d1bab79a0e:-868876768</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1207268_beautify.Employee">63a5bc0193a67110d2eff24efaba1004</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 21:21:57</sys_created_on>
+        <sys_db_object display_value="" name="pa_dashboards_permissions">pa_dashboards_permissions</sys_db_object>
+        <sys_id>4b8e363b850d47b0991f229601c2a551</sys_id>
+        <sys_metadata>cbea6f3493627110d2eff24efaba100c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1207268_beautify.Employee</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>pa_dashboards_permissions_cbea6f3493627110d2eff24efaba100c</sys_update_name>
+        <sys_update_version display_value="pa_dashboards_permissions_cbea6f3493627110d2eff24efaba100c">4fea6f3493627110d2eff24efaba100e</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 21:21:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_user_metadata">
+    <par_dashboard_user_metadata action="DELETE">
+        <created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user>
+        <created_on>2022-05-29 16:29:20</created_on>
+        <dashboard display_value="BEAUTIFY SALON WORKSPACE">33bce7a8d12231103b6dde045552ddb1</dashboard>
+        <last_updated_on>2023-11-14 00:28:05</last_updated_on>
+        <requested_by_user/>
+        <sys_class_name>par_dashboard_user_metadata</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-13 21:24:50</sys_created_on>
+        <sys_id>ffbce7a89422311053e114251df5ecb1</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>par_dashboard_user_metadata_ffbce7a89422311053e114251df5ecb1</sys_update_name>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 00:28:05</sys_updated_on>
+        <updated_by_user display_value="Gil Pares">8bb94a8793123110d2eff24efaba1074</updated_by_user>
+    </par_dashboard_user_metadata>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>par_dashboard_user_metadata_ffbce7a89422311053e114251df5ecb1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_user_metadata"><par_dashboard_user_metadata action="INSERT_OR_UPDATE"><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><created_on>2022-05-29 16:29:20</created_on><dashboard display_value="BEAUTIFY SALON WORKSPACE">33bce7a8d12231103b6dde045552ddb1</dashboard><last_updated_on>2023-11-14 00:28:05</last_updated_on><requested_by_user/><sys_class_name>par_dashboard_user_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-13 21:24:50</sys_created_on><sys_id>ffbce7a89422311053e114251df5ecb1</sys_id><sys_mod_count>12</sys_mod_count><sys_name/><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>par_dashboard_user_metadata_ffbce7a89422311053e114251df5ecb1</sys_update_name><sys_updated_by>gilpares</sys_updated_by><sys_updated_on>2023-11-14 00:28:05</sys_updated_on><updated_by_user display_value="Gil Pares">8bb94a8793123110d2eff24efaba1074</updated_by_user></par_dashboard_user_metadata></record_update>]]></payload>
+        <payload_hash>1858616399</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>16c7f36493a23110d2eff24efaba103f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 00:28:05</sys_created_on>
+        <sys_id>e4b6547493263110d2eff24efaba1010</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bcb3a6cf30000001</sys_recorded_at>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 00:28:05</sys_updated_on>
+        <type>PAR Dashboard User Metadata</type>
+        <update_guid>dcb65474b4263110e389be0b5c37d40f</update_guid>
+        <update_guid_history>dcb65474b4263110e389be0b5c37d40f:1858616399,30a65074a8263110416d46eed625daea:1567998743,df8690747926311095595918d7576ba1:-2092260947,e2365c349a263110c738d77d3c123d9f:-773968625,63069834a926311031b4c3fea256e1e2:-208469045,f62dffa828a2311096b19f5864f124b8:581965577,a70d7fa8cda2311053fcd58f5a5d44e0:-605564244,dc9bb76825a231108746ca9d03376382:-1592483674,da1bff2852a231103149ced6fd5b6a21:-1413836828,afd9b3e4e7a231103b85b619a2455a3c:1687647667,1a39b3e45fa23110919fa20af9bf0b32:1115989249,8dcc2ba8f5223110be434fb869a47cc6:-430903172,c5cc2ba8a62231108d77cddb20da39c5:-1671179658</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">a7171c7493263110d2eff24efaba10be</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>gilpares</sys_created_by>
+        <sys_created_on>2023-11-14 00:29:56</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_user_metadata">par_dashboard_user_metadata</sys_db_object>
+        <sys_id>07765a89e5624bfa8e63080158299fa4</sys_id>
+        <sys_metadata>ffbce7a89422311053e114251df5ecb1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>par_dashboard_user_metadata_ffbce7a89422311053e114251df5ecb1</sys_update_name>
+        <sys_update_version display_value="par_dashboard_user_metadata_ffbce7a89422311053e114251df5ecb1">e4b6547493263110d2eff24efaba1010</sys_update_version>
+        <sys_updated_by>gilpares</sys_updated_by>
+        <sys_updated_on>2023-11-14 00:29:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

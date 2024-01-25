@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Haircut">7eee364d9376b110d2eff24efaba10f3</sc_cat_item>
+        <sc_category display_value="Beautify">1fa5ba419376b110d2eff24efaba1004</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>LaSalle</sys_created_by>
+        <sys_created_on>2023-11-27 18:25:52</sys_created_on>
+        <sys_id>f20a8b0993b6b110d2eff24efaba1087</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Beautify.Haircut</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_update_name>sc_cat_item_category_f20a8b0993b6b110d2eff24efaba1087</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-27 18:27:54</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</application>
+        <file_path/>
+        <instance_id>0d96f4badbc63950f697684e139619a3</instance_id>
+        <instance_name>dev194372</instance_name>
+        <name>sc_cat_item_category_f20a8b0993b6b110d2eff24efaba1087</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Haircut">7eee364d9376b110d2eff24efaba10f3</sc_cat_item><sc_category display_value="Beautify">1fa5ba419376b110d2eff24efaba1004</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>LaSalle</sys_created_by><sys_created_on>2023-11-27 18:25:52</sys_created_on><sys_id>f20a8b0993b6b110d2eff24efaba1087</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Beautify.Haircut</sys_name><sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package><sys_policy/><sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope><sys_update_name>sc_cat_item_category_f20a8b0993b6b110d2eff24efaba1087</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-11-27 18:27:54</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1305593540</payload_hash>
+        <record_name>Beautify.Haircut</record_name>
+        <reverted_from/>
+        <source>49ef878d93b6b110d2eff24efaba1064</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-27 18:51:25</sys_created_on>
+        <sys_id>41efc78d93b6b110d2eff24efaba103b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c121f38570000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-27 18:51:25</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>45efc78d76b6b110d43a8b9450c5173a</update_guid>
+        <update_guid_history>45efc78d76b6b110d43a8b9450c5173a:1305593540,788a834929b6b110d737ab9607755831:-1550993072</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Beautify.Haircut">09efc78d93b6b110d2eff24efaba104b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-27 18:51:25</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>3a71528e415749f09dbc309fee7a2190</sys_id>
+        <sys_metadata>f20a8b0993b6b110d2eff24efaba1087</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Beautify.Haircut</sys_name>
+        <sys_package display_value="BEAUTIFY" source="x_1207268_beautify">8d072b249322311054597bfdfaba100b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BEAUTIFY">8d072b249322311054597bfdfaba100b</sys_scope>
+        <sys_scope_delete display_value="">023a5b9ab19e4e7680107ab801bc4419</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_f20a8b0993b6b110d2eff24efaba1087</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_f20a8b0993b6b110d2eff24efaba1087">41efc78d93b6b110d2eff24efaba103b</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-27 18:51:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
